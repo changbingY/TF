@@ -1,0 +1,24 @@
+Question 1:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: Yu gɛ́t fɔ fírma[r]=an.
+Gloss: 2SG get PREP sign=3SG.OBJ
+The English translation of this sentence is: ‘You have to sign it.’
+Here is a relevant knowledge point for this example to help you judge: The third aspect of interest is that /r/ epenthesis is ungrammatical with Spanish derived verbs, cf. \REF{ex:key:75}. Epenthesis is limited to the native layer of the Pichi vocabulary, thus excluding inserted Spanish verbs from the application of /r/ epenthesis, and limiting them to TCSA alone.
+Please only return True or False. Do not say anything else. 
+
+Question 2:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: Dɛn wɔ́ri[r]=an bɔkú.
+Gloss: 3PL worry=3SG.OBJ much
+The English translation of this sentence is: ‘They worried him a lot.’
+Here is a relevant knowledge point for this example to help you judge: Pichi words with a word-final L-toned /ì/, e.g. wɔ́ri ‘worry’, merit some attention in the context of epenthesis. Such words exhibit the conditioning feature but neither trigger /r/ epenthesis nor TCSA. Other verbs in this group are sɔ́ri ‘feel sorry’, grídi ‘be greedy’, hángri ‘be hungry’, lési ‘be lazy’, and tɔ́sti ‘be thirsty’.
+Please only return True or False. Do not say anything else. 
+
+Question 3:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: Dɛn wɔ́ri ín bɔkú.
+Gloss: 3PL worry 3SG.INDP much
+The English translation of this sentence is: ‘They worried him a lot.’
+Here is a relevant knowledge point for this example to help you judge: Pichi words with a word-final L-toned /ì/, e.g. wɔ́ri ‘worry’, merit some attention in the context of epenthesis. Such words exhibit the conditioning feature but neither trigger /r/ epenthesis nor TCSA. Other verbs in this group are sɔ́ri ‘feel sorry’, grídi ‘be greedy’, hángri ‘be hungry’, lési ‘be lazy’, and tɔ́sti ‘be thirsty’.
+Please only return True or False. Do not say anything else. 
+
