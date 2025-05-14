@@ -1,0 +1,56 @@
+Question 1:
+You are a linguist specializing in Yauyos Quechua. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: dumingu-n-pa kisu-ta apa-q ka-ra-: ishkay
+Gloss: Sunday-3-LOC cheese-ACC bring-AG be-PST-1 two
+The English translation of this sentence is: On Sundays, I would bring two cheeses.
+Here is a relevant knowledge point for this example to help you judge: \phono{-rQa} and \phono{-Ru} are thus not in paradigmatic opposition and differ in their distribution. \phono{-RQa,} but not \phono{-Ru}, is used in the construction of the habitual past~(\ref{Glo4:Dumingunpa}), (\ref{Glo4:manchachiku}) and the past conditional~(\ref{Glo4:Imapaqtaqni}),~(\ref{Glo4:Kundinakurun}); while \phono{-Ru}, but not \phono{-RQa}, may be used in combination with \phono{-sHa}~(\ref{Glo4:ayarikura}),~(\ref{Glo4:Chayllapaq}) as well as with \phono{-shpa}~(\ref{Glo4:Antaylumatata}), (\ref{Glo4:talilushpaqa}) and \phono{-pti}~(\ref{Glo4:ganawnintin}), (\ref{Glo4:trayarun}), (\ref{Glo4:shinkaqqa}), in which case it indicates the precedence of the subordinated event to the main-clause event.
+Please only return True or False.
+
+Question 2:
+You are a linguist specializing in Yauyos Quechua. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: kundina-ku-ru-n-man-tri ka-ra qullqi chay ka-sa
+Gloss: condemn-REFL-URGT-3-COND-EVC be-PST money DEM.D be-NPST
+The English translation of this sentence is: She would have condemned herself -- that was money.
+Here is a relevant knowledge point for this example to help you judge: \phono{-rQa} and \phono{-Ru} are thus not in paradigmatic opposition and differ in their distribution. \phono{-RQa,} but not \phono{-Ru}, is used in the construction of the habitual past~(\ref{Glo4:Dumingunpa}), (\ref{Glo4:manchachiku}) and the past conditional~(\ref{Glo4:Imapaqtaqni}),~(\ref{Glo4:Kundinakurun}); while \phono{-Ru}, but not \phono{-RQa}, may be used in combination with \phono{-sHa}~(\ref{Glo4:ayarikura}),~(\ref{Glo4:Chayllapaq}) as well as with \phono{-shpa}~(\ref{Glo4:Antaylumatata}), (\ref{Glo4:talilushpaqa}) and \phono{-pti}~(\ref{Glo4:ganawnintin}), (\ref{Glo4:trayarun}), (\ref{Glo4:shinkaqqa}), in which case it indicates the precedence of the subordinated event to the main-clause event.
+Please only return True or False.
+
+Question 3:
+You are a linguist specializing in Yauyos Quechua. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: Cañete-ta ayari-ku-ra-: ispusu-:-ta lista-man trura-ru-sa
+Gloss: Cañete-ACC escape-REFL-PST-1 husband-1-ACC list-ALL put-URGT-NPST
+The English translation of this sentence is: I escaped to Cañete. They had put my husband on the list.
+Here is a relevant knowledge point for this example to help you judge: \phono{-rQa} and \phono{-Ru} are thus not in paradigmatic opposition and differ in their distribution. \phono{-RQa,} but not \phono{-Ru}, is used in the construction of the habitual past~(\ref{Glo4:Dumingunpa}), (\ref{Glo4:manchachiku}) and the past conditional~(\ref{Glo4:Imapaqtaqni}),~(\ref{Glo4:Kundinakurun}); while \phono{-Ru}, but not \phono{-RQa}, may be used in combination with \phono{-sHa}~(\ref{Glo4:ayarikura}),~(\ref{Glo4:Chayllapaq}) as well as with \phono{-shpa}~(\ref{Glo4:Antaylumatata}), (\ref{Glo4:talilushpaqa}) and \phono{-pti}~(\ref{Glo4:ganawnintin}), (\ref{Glo4:trayarun}), (\ref{Glo4:shinkaqqa}), in which case it indicates the precedence of the subordinated event to the main-clause event.
+Please only return True or False.
+
+Question 4:
+You are a linguist specializing in Yauyos Quechua. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: chay-lla-paq willa-ka-ru-sa
+Gloss: DEM.D-RSTR-ABL tell-PASSACC-URGT-NPST
+The English translation of this sentence is: That’s why they had told on him.
+Here is a relevant knowledge point for this example to help you judge: \phono{-rQa} and \phono{-Ru} are thus not in paradigmatic opposition and differ in their distribution. \phono{-RQa,} but not \phono{-Ru}, is used in the construction of the habitual past~(\ref{Glo4:Dumingunpa}), (\ref{Glo4:manchachiku}) and the past conditional~(\ref{Glo4:Imapaqtaqni}),~(\ref{Glo4:Kundinakurun}); while \phono{-Ru}, but not \phono{-RQa}, may be used in combination with \phono{-sHa}~(\ref{Glo4:ayarikura}),~(\ref{Glo4:Chayllapaq}) as well as with \phono{-shpa}~(\ref{Glo4:Antaylumatata}), (\ref{Glo4:talilushpaqa}) and \phono{-pti}~(\ref{Glo4:ganawnintin}), (\ref{Glo4:trayarun}), (\ref{Glo4:shinkaqqa}), in which case it indicates the precedence of the subordinated event to the main-clause event.
+Please only return True or False.
+
+Question 5:
+You are a linguist specializing in Yauyos Quechua. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: chay hawla-ru-pti-n-shi atuq traya-ru-n
+Gloss: DEM.D cage-URGT-SUBDS-3-EVR fox arrive-URGT-3
+The English translation of this sentence is: When he had caged [the rabbit], the fox arrived.
+Here is a relevant knowledge point for this example to help you judge: \phono{-rQa} and \phono{-Ru} are thus not in paradigmatic opposition and differ in their distribution. \phono{-RQa,} but not \phono{-Ru}, is used in the construction of the habitual past~(\ref{Glo4:Dumingunpa}), (\ref{Glo4:manchachiku}) and the past conditional~(\ref{Glo4:Imapaqtaqni}),~(\ref{Glo4:Kundinakurun}); while \phono{-Ru}, but not \phono{-RQa}, may be used in combination with \phono{-sHa}~(\ref{Glo4:ayarikura}),~(\ref{Glo4:Chayllapaq}) as well as with \phono{-shpa}~(\ref{Glo4:Antaylumatata}), (\ref{Glo4:talilushpaqa}) and \phono{-pti}~(\ref{Glo4:ganawnintin}), (\ref{Glo4:trayarun}), (\ref{Glo4:shinkaqqa}), in which case it indicates the precedence of the subordinated event to the main-clause event.
+Please only return True or False.
+
+Question 6:
+You are a linguist specializing in Yauyos Quechua. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: ama ri-shun-chu
+Gloss: PROH go-1PL.FUT-NEG
+The English translation of this sentence is: Let’s not go!’ ‘We shouldn’t go.
+Here is a relevant knowledge point for this example to help you judge: \phono{¡Haku!} ‘Let’s go!’ is irregular: it cannot be negated or inflected~(\ref{Glo4:pakananpaq}), (\ref{Glo4:shunchu}), except, optionally, with the first-person plural -\phono{nchik}.
+Please only return True or False.
+
+Question 7:
+You are a linguist specializing in Yauyos Quechua. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: kumuda-shi-ku-ya-n kumuda-ku-shi-ya-n
+Gloss: comfortable-ACMP-REFL-PROG-3 comfortable-REFL-ACMP-PROG-3
+The English translation of this sentence is: They accompanied getting comfortable.}
+Here is a relevant knowledge point for this example to help you judge: Some combinations are not possible. Although some combinations are, arguably, precluded for pragmatic reasons (i.e., they would denote highly unlikely or even impossible states or events), the exclusion of others begs other accounts~(\ref{Glo4:shiku}).
+Please only return True or False.
+
