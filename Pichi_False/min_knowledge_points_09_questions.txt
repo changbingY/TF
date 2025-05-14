@@ -1,0 +1,80 @@
+Question 1:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: Di piloto de fláy di avión.
+Gloss: DEF pilot IPFV fly DEF plane
+The English translation of this sentence is: ‘The pilot is flying the plane.’
+Here is a relevant knowledge point for this example to help you judge: Intransitive verbs may only appear with a subject\is{subjects} and may not take objects\is{objects}. Participants other than subjects appear in the guise of prepositional phrases\is{prepositional phrases}. For instance, the locomotion verbs fláy ‘fly’ and wáka ‘walk’ are intransitive.
+Please only return True or False. Do not say anything else. 
+
+Question 2:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: Djunais de fɛ́t Boyé.
+Gloss: NAME IPFV fight NAME
+The English translation of this sentence is: ‘Djunais is fighting Boyé.’
+Here is a relevant knowledge point for this example to help you judge: The verb fɛ́t ‘fight’ cannot take an object either \REF{ex:key:1090}. A comitative participant needs to be expressed as a prepositional phrase \REF{ex:key:1091} or within a coordinate structure \REF{ex:key:1092}:
+Please only return True or False. Do not say anything else. 
+
+Question 3:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: A blánt Malábo.
+Gloss: 1SG.SBJ reside Malabo
+The English translation of this sentence is: ‘I reside in Malabo.’
+Here is a relevant knowledge point for this example to help you judge: The ground associated with the intransitive stative verb blánt ‘reside’ may only be expressed as a prepositional phrase (\ref{ex:key:1093}–\ref{ex:key:1094}):
+Please only return True or False. Do not say anything else. 
+
+Question 4:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: Gɔ́d go gúd=an.
+Gloss: God POT good=3SG.OBJ
+The English translation of this sentence is: ‘God will make it good.’
+Here is a relevant knowledge point for this example to help you judge: Intransitive property items include gúd ‘be good’ \REF{ex:key:1095} and bɛ́ta/bɛ́tɛ ‘be very good, better’ \REF{ex:key:1096}. With both property items, a valency-increasing causative construction is required in order to add a participant in addition to the subject \REF{ex:key:1097}{\fff}:
+Please only return True or False. Do not say anything else. 
+
+Question 5:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: Gɔ́d go bɛ́tar=an.
+Gloss: God POT very.good=3SG.OBJ
+The English translation of this sentence is: ‘God will better it [things].’
+Here is a relevant knowledge point for this example to help you judge: Intransitive property items include gúd ‘be good’ \REF{ex:key:1095} and bɛ́ta/bɛ́tɛ ‘be very good, better’ \REF{ex:key:1096}. With both property items, a valency-increasing causative construction is required in order to add a participant in addition to the subject \REF{ex:key:1097}{\fff}:
+Please only return True or False. Do not say anything else. 
+
+Question 6:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: Dán sáy fáyn fɔ sí.
+Gloss: that side fine PREP see
+The English translation of this sentence is: ‘That place is nice to see.’
+Here is a relevant knowledge point for this example to help you judge: At this point, a word is in order on the raising properties of expletive verbs. In \REF{ex:key:1152} below, the \textsc{3sg.sbj} pronoun e anaphorically refers to dɛn yón ‘theirs’, so the object of the complement clause beginning with the non-finite complementiser fɔ ‘\textsc{prep}’ has been raised into subject position in the main clause. For other speakers, however, raising is not accepted with evaluative verbs \REF{ex:key:1153}:
+Please only return True or False. Do not say anything else. 
+
+Question 7:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: Boyé fíba gɛ́t mɔní.
+Gloss: NAME seem get money
+The English translation of this sentence is: ‘Boyé seems to have money.’
+Here is a relevant knowledge point for this example to help you judge: The verb fíba ‘resemble’ takes full complement clauses\is{complement clauses} introduced by the complementiser sé \REF{ex:key:1154}. Neither reduced fɔ{}-complement clauses nor SVCs are accepted in clause linkage. Hence, an SVC like \REF{ex:key:1155} is ungrammatical:
+Please only return True or False. Do not say anything else. 
+
+Question 8:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: A de kɔ́t di tín sísɔs.
+Gloss: 1SG.SBJ IPFV cut DEF thing scissors
+The English translation of this sentence is: ‘I’m cutting the thing with a pair of scissors.’
+Here is a relevant knowledge point for this example to help you judge: In Pichi, syntactic objects can denote various less central semantic roles which may alternatively be expressed through prepositional phrases\is{prepositional phrases}. Accordingly, associative objects appear to the right of patient\is{patient} objects in double-object constructions (cf. \sectref{sec:9.3.4}), in a position usually reserved for adverbial adjuncts\is{adjuncts}. An associative object is an instantiation of some entity typically associated with the situation denoted by the verb. Associative objects in Pichi are reminiscent of inherent object constructions as found in the Kwa languages of West Africa (see \citealt{Essegbey1999} for Ewe). Contrary to inherent objects, however, associative objects are not obligatory and may remain unexpressed at all times. Equally, associative objects usually only occur with specific verbs (cf. e.g. \ref{ex:key:1179}). The verb-object collocations described in this section therefore appear to involve specialisation or lexicalisation. The use of associative objects can therefore only serve as a productive means of increasing verb valency with the verbs listed in \tabref{tab:key:9.9}.
+Please only return True or False. Do not say anything else. 
+
+Question 9:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: A go gí una=an tumɔ́ro.
+Gloss: 1SG.SBJ POT give 2PL=3SG.OBJ tomorrow
+The English translation of this sentence is: 
+Here is a relevant knowledge point for this example to help you judge: The bulk of Pichi verbs can occur with one as well as two objects\is{objects}. The primacy of the object next to the verb – which is usually animate and has the role of recipient\is{recipient} or beneficiary – is evident in double-object constructions involving two object pronouns. The presence of two pronominal objects is ungrammatical if the clitic object pronoun =an is preceded by the low-toned personal pronoun una/unu ‘\textsc{2pl}’ or another \textsc{3sg.obj} pronoun =an (for details, see \sectref{sec:3.3}, on tone-conditioned suppletive allomorphy). In such cases, it is the patient object that remains unexpressed. Compare the double-object construction in \REF{ex:key:1199} with the ungrammatical example \REF{ex:key:1200} and sentence \REF{ex:key:1201}. In the latter example, the \textsc{3sg.obj} theme\is{theme} object =an remains unexpressed:
+Please only return True or False. Do not say anything else. 
+
+Question 10:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: Djunais de fɛ́t Boyé.
+Gloss: NAME IPFV fight NAME
+The English translation of this sentence is: ‘Djunais is fighting Boyé.’
+Here is a relevant knowledge point for this example to help you judge: Nevertheless, like other inherently reciprocal verbs, mít and mítɔp may take part in a reciprocal alternation (cf. also fɛ́t ‘fight’ in \ref{ex:key:1090}). The two participants may be expressed as coordinate subject{\fff}s in an intransitive clause while reciprocity is understood. Compare the transitive use of mít ‘meet’ in \REF{ex:key:1315}, with its intransitive use with two coordinate subjects in \REF{ex:key:1316}:
+Please only return True or False. Do not say anything else. 
+

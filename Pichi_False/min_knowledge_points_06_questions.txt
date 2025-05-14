@@ -1,0 +1,8 @@
+Question 1:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: A bin mɔs gó dé.
+Gloss: 1SG.SBJ PST OBL go there
+The English translation of this sentence is: ‘I had to go there.’
+Here is a relevant knowledge point for this example to help you judge: The same characteristics hold for the element mɔs ‘\textsc{obl’}, which also expresses obligative mood. However, the use of mɔs usually renders a strong obligation sense often coupled with a sense of internal compulsion \REF{ex:key:421}. Generally, speakers do not accept the use of mɔs ‘\textsc{obl}’ in syntactic positions which would suggest a verbal status of this element either. For instance, like fɔ above, mɔs is not attested in conjunction with other TMA markers \REF{ex:key:422}:
+Please only return True or False. Do not say anything else. 
+
