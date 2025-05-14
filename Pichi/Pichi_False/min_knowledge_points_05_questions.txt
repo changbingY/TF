@@ -1,8 +1,0 @@
-Question 1:
-You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
-Sentence: Na yú in hós.
-Gloss: FOC 2SG.INDP 3SG.POSS house
-The English translation of this sentence is: ‘It’s your house.’
-Here is a relevant knowledge point for this example to help you judge: The dislocated possessive construction requires coreferentiality of the possessive pronoun and the possessor.
-Please only return True or False. Do not say anything else. 
-

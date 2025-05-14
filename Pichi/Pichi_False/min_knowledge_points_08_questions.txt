@@ -1,8 +1,0 @@
-Question 1:
-You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
-Sentence: E dé bifó sáy fɔ di hós.
-Gloss: 3SG.SBJ BE.LOC before side PREP DEF house
-The English translation of this sentence is: ‘She’s in front of the house.’
-Here is a relevant knowledge point for this example to help you judge: The expression of the ground by way of a fɔ-prepositional phrase as in \REF{ex:key:928} above is not accepted with other locative nouns, i.e. *míndul fɔ di rúm \{middle \textsc{prep def} room\} ‘in the middle of the room’, *bihɛ́n fɔ dís hós \{behind \textsc{prep} this house\} ‘behind this house’. This also holds for the locative associative constructions described further below in \REF{ex:key:930}. 
-Please only return True or False. Do not say anything else. 
-
