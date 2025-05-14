@@ -1,0 +1,32 @@
+Question 1:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence:  sa Ø IPS satu
+Gloss: ... 1SG ... social.sciences one
+The English translation of this sentence is: [About course tracks in high school:] (‘I (am) Social Sciences I’)
+Here is a relevant knowledge point for this example to help you judge: Elision of \textitbf{di} ‘at, in’ and \textitbf{ke} ‘to’ is not possible, though, in nonverbal prepositional predicate clauses as this would create nominal clauses with unacceptable semantics. This is illustrated with elided \textitbf{di} ‘at, in’ in (\ref{Example_10.28}), which is based on the example in (\ref{Example_10.4}), and with elided \textitbf{ke} ‘to’ in (\ref{Example_10.29}), which is based on the example in (\ref{Example_10.8}).
+Please only return True or False. Do not say anything else. 
+
+Question 2:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence:  sa Ø ruma-sakit
+Gloss: ... 1SG ... hospital
+The English translation of this sentence is: (‘I (am) the hospital’)
+Here is a relevant knowledge point for this example to help you judge: Elision of \textitbf{di} ‘at, in’ and \textitbf{ke} ‘to’ is not possible, though, in nonverbal prepositional predicate clauses as this would create nominal clauses with unacceptable semantics. This is illustrated with elided \textitbf{di} ‘at, in’ in (\ref{Example_10.28}), which is based on the example in (\ref{Example_10.4}), and with elided \textitbf{ke} ‘to’ in (\ref{Example_10.29}), which is based on the example in (\ref{Example_10.8}).
+Please only return True or False. Do not say anything else. 
+
+Question 3:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence:  ... sa harus kluar Ø kam pu kluarga
+Gloss: ... ... 1SG have.to go.out ... 2PL POSS family
+The English translation of this sentence is: (‘[I hadn’t thought that] I would have to depart your family’)
+Here is a relevant knowledge point for this example to help you judge: Elision of elative \textitbf{dari} ‘from’ and temporal \textitbf{sampe} ‘until’ is also not possible, as illustrated in (\ref{Example_10.30}) and (\ref{Example_10.31}). In the example in (\ref{Example_10.30}), which is based on (\ref{Example_10.10}), elative \textitbf{dari} ‘from’ is omitted, resulting in an ungrammatical utterance. In the example in (\ref{Example_10.31}), which is based on (\ref{Example_10.19}), temporal \textitbf{sampe} ‘until’ is elided. The result is a change in meaning of the entire utterance: ‘I slept (the entire) afternoon’.
+Please only return True or False. Do not say anything else. 
+
+Question 4:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence:  ... sa harus kluar Ø kam pu kluarga
+Gloss: ... ... 1SG have.to go.out ... 2PL POSS family
+The English translation of this sentence is: (‘[I hadn’t thought that] I would have to depart your family’)
+Here is a relevant knowledge point for this example to help you judge: Elision of elative \textitbf{dari} ‘from’ and temporal \textitbf{sampe} ‘until’ is also not possible, as illustrated in (\ref{Example_10.30}) and (\ref{Example_10.31}). In the example in (\ref{Example_10.30}), which is based on (\ref{Example_10.10}), elative \textitbf{dari} ‘from’ is omitted, resulting in an ungrammatical utterance. In the example in (\ref{Example_10.31}), which is based on (\ref{Example_10.19}), temporal \textitbf{sampe} ‘until’ is elided. The result is a change in meaning of the entire utterance: ‘I slept (the entire) afternoon’.
+Please only return True or False. Do not say anything else. 
+

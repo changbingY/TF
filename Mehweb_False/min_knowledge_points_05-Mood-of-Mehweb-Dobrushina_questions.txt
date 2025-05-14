@@ -1,0 +1,40 @@
+Question 1:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: allah-li-ni hum-be ʡaˤχ d-uh-a-b!
+Gloss: Allah-OBL-ERG way-PL good NPL-become:PFV-IRR-OPT
+The English translation of this sentence is: `May Allah give you a good trip!'
+Here is a relevant knowledge point for this example to help you judge: with Allah in the ergative (\ref{ex:5:120}, \ref{ex:5:121}).
+Please only return True or False. Do not say anything else. 
+
+Question 2:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: allah-li-ni qu b-alq-ab!
+Gloss: Allah-OBL-ERG field N-grow:IPFV-OPT
+The English translation of this sentence is: `May the field grow with the help of Allah!'
+Here is a relevant knowledge point for this example to help you judge: with Allah in the ergative (\ref{ex:5:120}, \ref{ex:5:121}).
+Please only return True or False. Do not say anything else. 
+
+Question 3:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: dag w-ebk'-a-b nu!
+Gloss: yesterday M-die-IRR-OPT I
+The English translation of this sentence is: `I wish I had died yesterday!'
+Here is a relevant knowledge point for this example to help you judge: The optative cannot refer to the \isi{past}, cf.\ examples (\ref{ex:5:138}) and (\ref{ex:5:139}):
+Please only return True or False. Do not say anything else. 
+
+Question 4:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: abaj d-ebk'-es-q'alle, il eh-il urh-a-re.
+Gloss: mother F1-die:PFV-INF-CTRF this bad-ATR 1.become:IPFV-IRR-PST
+The English translation of this sentence is: `If his mother had died, he would have become a bad person.'
+Here is a relevant knowledge point for this example to help you judge: construction denotes non-desirable situations (\ref{ex:5:175}):
+Please only return True or False. Do not say anything else. 
+
+Question 5:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: nu uruχ k'-as dag anwal-li-če χʷe q'ac' b-ik-a-la.
+Gloss: I be.afraid LV:IPFV-HAB.EGO yesterday Anwar-OBL-SUPER(LAT) dog bite N-LV:PFV-IRR-APPR
+The English translation of this sentence is: \glt
+Here is a relevant knowledge point for this example to help you judge: is ungrammatical (\ref{ex:5:196}), and has to be modified as in (\ref{ex:5:197}).
+Please only return True or False. Do not say anything else. 
+

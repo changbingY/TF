@@ -1,0 +1,32 @@
+Question 1:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: \(sune-jni\) kʷiha b-erh-un-i adami-li-ze nu g-ub.
+Gloss: self.OBL-ERG ram N-slaughter:PFV-AOR-ATR man-OBL-INTER(LAT) I see:PFV-AOR
+The English translation of this sentence is: `The man who slaughtered the ram saw me.'
+Here is a relevant knowledge point for this example to help you judge: of the resumptive in (\ref{ex:11:16}) infelicitous allows the pronoun followed by
+Please only return True or False. Do not say anything else. 
+
+Question 2:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: ʁarʁu-be ar-d-ik-ib sa‹r›i(꞊jal) d-uʔ-ub-i merʔ-ani-če-la
+Gloss: stone-PL PV-NPL-fall:PFV-AOR self‹CL›(꞊EMPH) NPL-be-AOR-ATR place-PL-SUPER-EL
+The English translation of this sentence is: \glt
+Here is a relevant knowledge point for this example to help you judge: In (\ref{ex:11:26}) sari refers to the intransitive subject and requires the
+Please only return True or False. Do not say anything else. 
+
+Question 3:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: nu-ni (sune-la) weˤʡi-ze g-ib-i mažar b-oˤrʡ-oˤb
+Gloss: I-ERG self.OBL-GEN master-INTER(LAT) give:PFV-AOR-ATR gun N-break:PFV-AOR
+The English translation of this sentence is: \glt
+Here is a relevant knowledge point for this example to help you judge: the other hand, turns out to be impossible, as (\ref{ex:11:27}) shows:
+Please only return True or False. Do not say anything else. 
+
+Question 4:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: nu-ni (sune-la) weˤʡi-ze g-ib-i mažar b-oˤrʡ-oˤb
+Gloss: I-ERG self.OBL-GEN master-INTER(LAT) give:PFV-AOR-ATR gun N-break:PFV-AOR
+The English translation of this sentence is: \glt
+Here is a relevant knowledge point for this example to help you judge: observed in (\ref{ex:11:27}) is due to the fact that the pronoun is interpreted as a
+Please only return True or False. Do not say anything else. 
+

@@ -1,0 +1,24 @@
+Question 1:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: surat aqi-le le-b baˤʜi-ze-b baˤʜi-če-b.
+Gloss: picture up-ADVZ be-N wall-INTER-N(ESS) / wall-SUPER-N(ESS)
+The English translation of this sentence is: `A picture is hanging on the wall.'
+Here is a relevant knowledge point for this example to help you judge: but the rules are difficult to formulate. Examples (\ref{ex:3:30}) and (\ref{ex:3:31}) show
+Please only return True or False. Do not say anything else. 
+
+Question 2:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: iχija b-arš-ib-i t'uleka le-b t'uj-če-b t'uj-ze-b.
+Gloss: this.GEN N-become.beautiful:PFV-AOR-ATR ring be-N finger.OBL-SUPER-N(ESS) / finger.OBL-INTER-N(ESS)
+The English translation of this sentence is: \glt
+Here is a relevant knowledge point for this example to help you judge: but the rules are difficult to formulate. Examples (\ref{ex:3:30}) and (\ref{ex:3:31}) show
+Please only return True or False. Do not say anything else. 
+
+Question 3:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: di-ze-la di-ze-b-adala mašina b-oˤrʡ-oˤb.
+Gloss: I.OBL-INTER-EL / I.OBL-INTER-N-EL car N-break:PFV-AOR
+The English translation of this sentence is: `I accidentally broke the car.'
+Here is a relevant knowledge point for this example to help you judge: intransitive (labile in \ref{ex:3:42}) verbs and thus is a means of introducing an
+Please only return True or False. Do not say anything else. 
+

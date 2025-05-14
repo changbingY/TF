@@ -1,0 +1,56 @@
+Question 1:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: ba-H dyû-lɛ mɔ̀
+Gloss: 2-PRS kill-NEG COMPL
+The English translation of this sentence is: `They have not killed.'}
+Here is a relevant knowledge point for this example to help you judge: Another argument for verb derivational suffixes and inflectional morphology belonging to different categories comes from their distribution: aspect and negation markers are in complementary distribution and cannot co-occur, as shown in \REF{VSuff3}. Although \REF{VSuff3a} and \REF{VSuff3b} would be ungrammatical no matter what since they have a conflict in their tense categories (-{\itshape lɛ} negates the present and {\itshape mɔ̀} occurs only in past tenses), \REF{VSuff3c} illustrates that the co-occurrence of aspect and negation in a complex predicate is ungrammatical even within the same tense category.
+Please only return True or False.
+
+Question 2:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: ba-H dyû-H mɔ̀-lɛ
+Gloss: 2-PRS kill-R COMPL-NEG
+The English translation of this sentence is: `They have not killed.'}
+Here is a relevant knowledge point for this example to help you judge: Another argument for verb derivational suffixes and inflectional morphology belonging to different categories comes from their distribution: aspect and negation markers are in complementary distribution and cannot co-occur, as shown in \REF{VSuff3}. Although \REF{VSuff3a} and \REF{VSuff3b} would be ungrammatical no matter what since they have a conflict in their tense categories (-{\itshape lɛ} negates the present and {\itshape mɔ̀} occurs only in past tenses), \REF{VSuff3c} illustrates that the co-occurrence of aspect and negation in a complex predicate is ungrammatical even within the same tense category.
+Please only return True or False.
+
+Question 3:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: ba sàlɛ́ dyû mɔ̀
+Gloss: 2 NEG.PST kill COMPL
+The English translation of this sentence is: `They have not killed.'}
+Here is a relevant knowledge point for this example to help you judge: Another argument for verb derivational suffixes and inflectional morphology belonging to different categories comes from their distribution: aspect and negation markers are in complementary distribution and cannot co-occur, as shown in \REF{VSuff3}. Although \REF{VSuff3a} and \REF{VSuff3b} would be ungrammatical no matter what since they have a conflict in their tense categories (-{\itshape lɛ} negates the present and {\itshape mɔ̀} occurs only in past tenses), \REF{VSuff3c} illustrates that the co-occurrence of aspect and negation in a complex predicate is ungrammatical even within the same tense category.
+Please only return True or False.
+
+Question 4:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: ya.{\PST} sàlɛ́/pálɛ́ nzí/ì dè H-ma-ntúà
+Gloss: 1PL.PST NEG.PST PROG.PST eat OBJ.LINK-ma6-mango
+The English translation of this sentence is: `We were not eating mangoes.'}
+Here is a relevant knowledge point for this example to help you judge: It is impossible to combine negation and aspect markers in a complex predicate with a single \textsc{stamp} marker. It is also impossible to combine two true auxiliaries, as in \REF{pale5a}, nor can the \textsc{progressive past} auxiliary {\itshape nzí} take the \textsc{present} negation suffix -{\itshape lɛ}, as in \REF{pale5b}.
+Please only return True or False.
+
+Question 5:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: ya.{\PST} nzí-lɛ dè H-ma-ntúà
+Gloss: 1PL.PST PROG.PST-NEG eat OBJ.LINK-ma6-mango
+The English translation of this sentence is: `We were not eating mangoes.'}
+Here is a relevant knowledge point for this example to help you judge: It is impossible to combine negation and aspect markers in a complex predicate with a single \textsc{stamp} marker. It is also impossible to combine two true auxiliaries, as in \REF{pale5a}, nor can the \textsc{progressive past} auxiliary {\itshape nzí} take the \textsc{present} negation suffix -{\itshape lɛ}, as in \REF{pale5b}.
+Please only return True or False.
+
+Question 6:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: a sílɛ-H kɛ̀
+Gloss: 1.PST1 finish-R go
+The English translation of this sentence is: `*He has all gone.'}
+Here is a relevant knowledge point for this example to help you judge: Under this distributive function, {\itshape sílɛ} `finish' can only be used with plural subjects and only in certain contexts. For example, \REF{Nsile11}, where the event distributes over the different participants is grammatical, whereas \REF{Nsile12}, which has a singular subject, is ungrammatical.
+Please only return True or False.
+
+Question 7:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: a sílɛ-H kɛ̀
+Gloss: 1.PST1 finish-R go
+The English translation of this sentence is: `*He has all gone.'}
+Here is a relevant knowledge point for this example to help you judge: \noindent A singular participant is, however, grammatical even with {\itshape sílɛ} `finish' if there are several events over which the aspect marker is distributing. \REF{sile3} shows a coordinated clause where the first constituent is almost identical to the ungrammatical phrase in \REF{Nsile12}. The second constituent adds another event, however, over which {\itshape sílɛ} can distribute, thereby making \REF{sile3} acceptable.
+Please only return True or False.
+

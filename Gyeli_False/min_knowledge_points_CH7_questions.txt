@@ -1,0 +1,160 @@
+Question 1:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: Àdà àà ngɛ̀lɛ́nɛ̀
+Gloss: ∅1.PN 1.COP ∅1.teacher\jambox{(nominal)
+The English translation of this sentence is: `Ada is a teacher.'
+Here is a relevant knowledge point for this example to help you judge: \subsubsection*{Predication types} Unlike all other copula types, the \textsc{stamp} copula agrees with the subject in gender, as discussed in \sectref{sec:AGRtargets} on agreement targets. The \textsc{stamp} copula can link a nominal subject to different predication types. In \REF{ID1a}, the predicate is nominal, expressing a classification relation: Ada is a member of the set of teachers.
+Please only return True or False.
+
+Question 2:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: Àdà àà mpà
+Gloss: ∅1.PN 1.COP good\jambox{(adjective)
+The English translation of this sentence is: `Ada is good.'
+Here is a relevant knowledge point for this example to help you judge: \noindent \REF{ID1b} and \REF{IDcol} provide examples where the predicate is an adjective (\sectref{sec:QUAL}).
+Please only return True or False.
+
+Question 3:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: Àdà áà ndáwɔ̀ dé tù
+Gloss: ∅1.PN 1.COP ∅9.house LOC inside\jambox{(locative)
+The English translation of this sentence is: `Ada is inside the house.'
+Here is a relevant knowledge point for this example to help you judge: \noindent In \REF{ID1c} and \REF{ID1d}, the predicate is a locative noun phrase, either including a postposition such as {\itshape dé} (\sectref{sec:POST}) or a noun + noun attributive construction (\sectref{sec:NomLOC}).
+Please only return True or False.
+
+Question 4:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: b-ɔ́nɛ́gá báà ná písɛ̀ yá ndáwɔ̀
+Gloss: 2-other 2.COP still ∅7.behind 7:ATT ∅9.house\jambox{(locative)
+The English translation of this sentence is: `The others are still behind the house.'
+Here is a relevant knowledge point for this example to help you judge: \noindent In \REF{ID1c} and \REF{ID1d}, the predicate is a locative noun phrase, either including a postposition such as {\itshape dé} (\sectref{sec:POST}) or a noun + noun attributive construction (\sectref{sec:NomLOC}).
+Please only return True or False.
+
+Question 5:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: ɛ́ nà m-wánɔ̀ nùù vɛ́
+Gloss: LOC how N1-child 1.COP wherejambox(interrogative)
+The English translation of this sentence is: `What! Where is the child?'
+Here is a relevant knowledge point for this example to help you judge: \noindent In addition to these predicate types, which \citet{dryer2007a} views as the most common ones across languages, the \textsc{stamp} copula in Gyeli can also be used with locative interrogative words (\sectref{sec:INTERR}), as in \REF{ID2}, and with deictic adverbs (\sectref{sec:G1ADV}), as in \REF{ID3}.
+Please only return True or False.
+
+Question 6:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: bã́ y-ɔ́ɔ̀ yíì tè
+Gloss: emptyset7.word 7-POSS.2SG 7.COP therejambox(deictic)
+The English translation of this sentence is: ` I understand you [lit. Your word is there].'
+Here is a relevant knowledge point for this example to help you judge: \noindent In addition to these predicate types, which \citet{dryer2007a} views as the most common ones across languages, the \textsc{stamp} copula in Gyeli can also be used with locative interrogative words (\sectref{sec:INTERR}), as in \REF{ID2}, and with deictic adverbs (\sectref{sec:G1ADV}), as in \REF{ID3}.
+Please only return True or False.
+
+Question 7:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: b-údì báà ba-báà/bvùbvù
+Gloss: ba2-person 2.COP 2-two/many\jambox{(numeral/quantifier)
+The English translation of this sentence is: `The people are two/many.'
+Here is a relevant knowledge point for this example to help you judge: Also numerals (\sectref{sec:MODAgrPre}) and quantifiers (\sectref{sec:InvNUM}) can serve as the copula complement, as in \REF{IDnum}.
+Please only return True or False.
+
+Question 8:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: báà nâ wɛ sílɛ̂ kɛ̀ sâ sálɛ́
+Gloss: 2.COP COMP db2SG finish.IMP go do emptyset7.workjambox(complement)
+The English translation of this sentence is: `They are like, ``You, go and finish the work''.'
+Here is a relevant knowledge point for this example to help you judge: Finally, the \textsc{stamp} copula can also introduce reported speech in a quotative index (\sectref{sec:RD}). Thus, in \REF{IDRS}, the \textsc{stamp} copula {\itshape báà} serves as quotative index to the direct reported speech in the copula complement, marked by square brackets.
+Please only return True or False.
+
+Question 9:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: ɛ́ nà m-wánɔ̀ nùù vɛ́
+Gloss: LOC how N1-child 1.COP wherejambox(interrogative)
+The English translation of this sentence is: `What! Where is the child?'
+Here is a relevant knowledge point for this example to help you judge: \subsubsection*{Expression of the subject} As mentioned above, a copula links a subject to a predicate. In the previous examples, the shape of the subject was some sort of noun phrase. In \REF{ID2} and \REF{ID5}, the subject is expressed nominally, whereas the subject noun phrase in \REF{ID4} is more complex, including two modifiers. The \textsc{stamp} copula can also encode subject and copula at the same time and thus can occur on its own, without a nominal noun phrase, as in \REF{ID6}.
+Please only return True or False.
+
+Question 10:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: yɔ́ɔ̀ m-ùdã̂ a-H kɛ̀
+Gloss: so dbN1-woman 1-PRS gojambox(intransitive)
+The English translation of this sentence is: `So the woman goes.'
+Here is a relevant knowledge point for this example to help you judge: Subjects in Gyeli are formally characterized by their preverbal position in basic word order, as shown in \REF{SBJ1} and \REF{SBJ2}, and by agreement of the \textsc{stamp} marker, a preverbal clitic encoding subject agreement and other clause information such as tense-mood and negation (\sectref{sec:SCOP}).
+Please only return True or False.
+
+Question 11:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: Nzàmbí a bwã̀ã-H m-wánɔ̀
+Gloss: dbemptyset1.PN 1.PST1 give.birth-R N1-childjambox(transitive)
+The English translation of this sentence is: `Nzambi has given birth to a child.'
+Here is a relevant knowledge point for this example to help you judge: Subjects in Gyeli are formally characterized by their preverbal position in basic word order, as shown in \REF{SBJ1} and \REF{SBJ2}, and by agreement of the \textsc{stamp} marker, a preverbal clitic encoding subject agreement and other clause information such as tense-mood and negation (\sectref{sec:SCOP}).
+Please only return True or False.
+
+Question 12:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: yɔ́ɔ̀ m-ùdã̂ a-H kɛ̀
+Gloss: so dbN1-woman 1-PRS gojambox(intransitive)
+The English translation of this sentence is: `So the woman goes.'
+Here is a relevant knowledge point for this example to help you judge: The \textsc{stamp} marker, {\itshape á} in \REF{SBJ1} and {\itshape à} in \REF{SBJ2}, is a free grammatical morpheme rather than a prefix, since it can optionally be omitted in certain contexts (\sectref{sec:SCOP}).
+Please only return True or False.
+
+Question 13:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: Nzàmbí a bwã̀ã-H m-wánɔ̀
+Gloss: dbemptyset1.PN 1.PST1 give.birth-R N1-childjambox(transitive)
+The English translation of this sentence is: `Nzambi has given birth to a child.'
+Here is a relevant knowledge point for this example to help you judge: The \textsc{stamp} marker, {\itshape á} in \REF{SBJ1} and {\itshape à} in \REF{SBJ2}, is a free grammatical morpheme rather than a prefix, since it can optionally be omitted in certain contexts (\sectref{sec:SCOP}).
+Please only return True or False.
+
+Question 14:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: yɔ́ɔ̀ a-H kɛ̀
+Gloss: so db1-PRS gojambox(intransitive)
+The English translation of this sentence is: `So she goes.'
+Here is a relevant knowledge point for this example to help you judge: Still, the \textsc{stamp} marker is a valid diagnostic for subjecthood, since it can always be added to a nominal subject. The \textsc{stamp} marker as subject agreement marker suffices as subject expression in cases where the subject noun phrase is zero expressed (before the verbal predicate in square brackets), as in \REF{SBJ1a} and \REF{SBJ2a} for intransitive and transitive verbs, respectively.
+Please only return True or False.
+
+Question 15:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: a bwã̀ã-H m-wánɔ̀
+Gloss: db1.PST1 give.birth-R N1-childjambox(transitive)
+The English translation of this sentence is: `S/he has given birth to a child.'
+Here is a relevant knowledge point for this example to help you judge: Still, the \textsc{stamp} marker is a valid diagnostic for subjecthood, since it can always be added to a nominal subject. The \textsc{stamp} marker as subject agreement marker suffices as subject expression in cases where the subject noun phrase is zero expressed (before the verbal predicate in square brackets), as in \REF{SBJ1a} and \REF{SBJ2a} for intransitive and transitive verbs, respectively.
+Please only return True or False.
+
+Question 16:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: má ma-H kwè-H H-mi-pìndí
+Gloss: db6.SBJ 6-PRS fall-R OBJ.LINK-mi4-unripenessjambox(subject)
+The English translation of this sentence is: `They [the bread fruit] fall unripe.'
+Here is a relevant knowledge point for this example to help you judge: \noindent \REF{SBJSCOP1} shows the subject pronoun {\itshape má}, which precedes the \textsc{stamp} marker. In \REF{SBJSCOP2}, the agreement class 6 pronoun is in object position and takes the shape {\itshape mɔ̂}. This is the same form as the pronoun takes in obliques with the comitative marker {\itshape nà}, as in \REF{SBJSCOP3}.
+Please only return True or False.
+
+Question 17:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: mɛ-H nyɛ̂-H mɔ̂
+Gloss: 1SG-PRS see-R db6.OBJjambox(object)
+The English translation of this sentence is: `I see them [the bread fruit].'
+Here is a relevant knowledge point for this example to help you judge: \noindent \REF{SBJSCOP1} shows the subject pronoun {\itshape má}, which precedes the \textsc{stamp} marker. In \REF{SBJSCOP2}, the agreement class 6 pronoun is in object position and takes the shape {\itshape mɔ̂}. This is the same form as the pronoun takes in obliques with the comitative marker {\itshape nà}, as in \REF{SBJSCOP3}.
+Please only return True or False.
+
+Question 18:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: mɛ-H njì-H nà mɔ̂
+Gloss: 1SG-PRS come-R dbCOM 6.OBJjambox(oblique)
+The English translation of this sentence is: `I bring them [the bread fruit].'
+Here is a relevant knowledge point for this example to help you judge: \noindent \REF{SBJSCOP1} shows the subject pronoun {\itshape má}, which precedes the \textsc{stamp} marker. In \REF{SBJSCOP2}, the agreement class 6 pronoun is in object position and takes the shape {\itshape mɔ̂}. This is the same form as the pronoun takes in obliques with the comitative marker {\itshape nà}, as in \REF{SBJSCOP3}.
+Please only return True or False.
+
+Question 19:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: má ma-H kwè-H H-mi-pìndí
+Gloss: db6.SBJ 6-PRS fall-R OBJ.LINK-mi4-unripenessjambox(subject)
+The English translation of this sentence is: `They [the bread fruit] fall unripe.'
+Here is a relevant knowledge point for this example to help you judge: \citet{creissels2005} provides a useful survey of pronominal subject and object markers and their evolutionary stages in African languages. Following his model of three different stages in pronominal markers, Gyeli has both a stage I and a stage II pronominal marker for subjects. The stage I pronominal marker is the subject pronoun, as in \REF{SBJSCOP1}, which is in complementary distribution with its corresponding noun phrase and chosen for discourse structural reasons. In contrast, the stage II pronominal marker, following \citet{creissels2005}, is the \textsc{stamp} marker, as in \REF{SBJ1a}, which is obligatory even (in most cases) if a nominal or pronominal subject noun phrase is present. In contrast to subjects, non-subjects, namely objects and oblique noun phrases, only have a stage I pronominal marker, as described below.
+Please only return True or False.
+
+Question 20:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: yɔ́ɔ̀ a-H kɛ̀
+Gloss: so db1-PRS gojambox(intransitive)
+The English translation of this sentence is: `So she goes.'
+Here is a relevant knowledge point for this example to help you judge: \citet{creissels2005} provides a useful survey of pronominal subject and object markers and their evolutionary stages in African languages. Following his model of three different stages in pronominal markers, Gyeli has both a stage I and a stage II pronominal marker for subjects. The stage I pronominal marker is the subject pronoun, as in \REF{SBJSCOP1}, which is in complementary distribution with its corresponding noun phrase and chosen for discourse structural reasons. In contrast, the stage II pronominal marker, following \citet{creissels2005}, is the \textsc{stamp} marker, as in \REF{SBJ1a}, which is obligatory even (in most cases) if a nominal or pronominal subject noun phrase is present. In contrast to subjects, non-subjects, namely objects and oblique noun phrases, only have a stage I pronominal marker, as described below.
+Please only return True or False.
+

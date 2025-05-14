@@ -1,0 +1,40 @@
+Question 1:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: ndi-a-kabú-é̲nd-i
+Gloss: SM1SG-PST-LOC.PL-walk-NPST.PFV
+The English translation of this sentence is: ‘I walked around/ in different places.’
+Here is a relevant knowledge point for this example to help you judge: The perfective nature of the near past perfective is also seen in its interaction with aspectual markers; the NPP does not co-occur with imperfective aspectual forms such as progressives, habituals, and the persistive, nor with the locative pluractional marker, which indicates an event taking place in different locations (see \sectref{bkm:Ref494442567}); as the NPP does not allow reference to the internal structure of the event’s nucleus, it cannot be used with a marker that describes the spatial distribution of the event, as illustrated in (\ref{bkm:Ref494974356}).
+Please only return True or False.
+
+Question 2:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: ni-ndí̲-a-kabú-end-a
+Gloss: PST-SM1SG-PST-LOC.PL-walk-FV
+The English translation of this sentence is: ‘I walked around/walked in different places.’
+Here is a relevant knowledge point for this example to help you judge: Because the RPP is perfective, it does not co-occur with imperfective markers such as persistive shí-, habitual náku- or -ang, or a progressive construction (see chapter \ref{bkm:Ref99112358} on aspect). As seen in (\ref{bkm:Ref99965996}), the RPP may also not co-occur with the locative pluractional marker, which indicates that an event takes place in multiple locations (see \sectref{bkm:Ref494442567}); because the RPP does not allow reference to the event’s internal structure, co-occurrence with a marker that describes the event’s spatial distribution is disallowed. Incompatibility with the locative pluractional is also seen for the near past perfective (see (\ref{bkm:Ref494974356}) in \sectref{bkm:Ref488767483},). The near and remote past perfective constructions do occur with the locative pluractional (see Sections \ref{bkm:Ref494480139} and \ref{bkm:Ref488767517}).
+Please only return True or False.
+
+Question 3:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: ndi-a-kabú-é̲nd-i
+Gloss: SM1SG-PST-LOC.PL-walk-NPST.PFV
+The English translation of this sentence is: ‘I walked around/ in different places.’
+Here is a relevant knowledge point for this example to help you judge: Because the RPP is perfective, it does not co-occur with imperfective markers such as persistive shí-, habitual náku- or -ang, or a progressive construction (see chapter \ref{bkm:Ref99112358} on aspect). As seen in (\ref{bkm:Ref99965996}), the RPP may also not co-occur with the locative pluractional marker, which indicates that an event takes place in multiple locations (see \sectref{bkm:Ref494442567}); because the RPP does not allow reference to the event’s internal structure, co-occurrence with a marker that describes the event’s spatial distribution is disallowed. Incompatibility with the locative pluractional is also seen for the near past perfective (see (\ref{bkm:Ref494974356}) in \sectref{bkm:Ref488767483},). The near and remote past perfective constructions do occur with the locative pluractional (see Sections \ref{bkm:Ref494480139} and \ref{bkm:Ref488767517}).
+Please only return True or False.
+
+Question 4:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: ndi-aku-tombwer-ang-a
+Gloss: SM1SG-NPST.IPFV-weed-HAB-FV
+The English translation of this sentence is: ‘I used to weed.’
+Here is a relevant knowledge point for this example to help you judge: The NPI also does not co-occur with habituals, as shown for the habitual suffix -ang in (\ref{bkm:Ref99966234}).
+Please only return True or False.
+
+Question 5:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: ndi-a-shónj-i o-∅-nyáti no=ku-fú-a
+Gloss: SM1SG-PST-shoot-NPST.PFV AUG-NP1a-buffalo COM=INF-die-FV
+The English translation of this sentence is: ‘I shot a buffalo and it [not I] died.’
+Here is a relevant knowledge point for this example to help you judge: The comitative-marked consecutive is only allowed when context is sufficient to establish the intended subject, either through the preceding inflected verb, or through the wider (discourse-internal or external) context. (\ref{bkm:Ref451515804}) was considered ungrammatical, because the lack of context does not provide enough clues to correctly identify the buffalo as the intended subject of the verb.
+Please only return True or False.
+

@@ -1,0 +1,48 @@
+Question 1:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: mu-shúː
+Gloss: NP3-urine
+The English translation of this sentence is: ‘urine’
+Here is a relevant knowledge point for this example to help you judge: /sh/ is occasionally realized as prenasalized /nsh/ in words where comparative data and reconstruction suggest that the sound was never prenasalized, as in (\ref{bkm:Ref98923934}--\ref{bkm:Ref98923939}). The prenasalization may be related to the preceding /m/, though as seen in (\ref{bkm:Ref494184788}--\ref{bkm:Ref494184790}), variation between prenasalized and non-prenasalized fricatives also occurs outside this context.
+Please only return True or False.
+
+Question 2:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: ku-róːt-a
+Gloss: INF-dream-FV
+The English translation of this sentence is: ‘to dream’
+Here is a relevant knowledge point for this example to help you judge: In some cases, a long vowel in Fwe is a reflex of a reconstructed long vowel or vowel sequence for Proto-Bantu, as in (\ref{bkm:Ref459626466}--\ref{bkm:Ref459626468}).
+Please only return True or False.
+
+Question 3:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: bu-réː
+Gloss: NP14-long
+The English translation of this sentence is: ‘length’
+Here is a relevant knowledge point for this example to help you judge: In some cases, a long vowel in Fwe is a reflex of a reconstructed long vowel or vowel sequence for Proto-Bantu, as in (\ref{bkm:Ref459626466}--\ref{bkm:Ref459626468}).
+Please only return True or False.
+
+Question 4:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: N-júo
+Gloss: NP9-house
+The English translation of this sentence is: ‘house’
+Here is a relevant knowledge point for this example to help you judge: Vowel sequences and lengthened vowels are also distinct from a historical point of view; vowel sequences (of either identical or different vowels) mostly derive from original CV.CV sequences, from which the second consonant was lost through regular diachronic sound changes. This has affected *p and *g, which were both lost before non-high vowels \citep{Bostoen2009}. Examples of such vowel sequences and their etymology are given in (\ref{bkm:Ref98514755}--\ref{bkm:Ref98514756}).
+Please only return True or False.
+
+Question 5:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: e-∅-bwe
+Gloss: AUG-NP5-stone
+The English translation of this sentence is: ‘stone’
+Here is a relevant knowledge point for this example to help you judge: A consonant followed by /w/ is never followed by a back vowel /o/ or /u/. This constraint is likely to be related to the historical development of /w/, which derives from an earlier vowel /u/ or /o/, as in (\ref{bkm:Ref98925809}--\ref{bkm:Ref98925813}).
+Please only return True or False.
+
+Question 6:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: ku-tw-á
+Gloss: INF-pound-FV
+The English translation of this sentence is: ‘to pound’
+Here is a relevant knowledge point for this example to help you judge: A consonant followed by /w/ is never followed by a back vowel /o/ or /u/. This constraint is likely to be related to the historical development of /w/, which derives from an earlier vowel /u/ or /o/, as in (\ref{bkm:Ref98925809}--\ref{bkm:Ref98925813}).
+Please only return True or False.
+

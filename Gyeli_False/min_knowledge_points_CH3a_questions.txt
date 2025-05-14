@@ -1,0 +1,24 @@
+Question 1:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: mɛ-H kɛ̀
+Gloss: 1SG-PRS go
+The English translation of this sentence is: `I walk.'}
+Here is a relevant knowledge point for this example to help you judge: All these verbs can also take a different lexeme as an object, as for instance, in \REF{Cogna}. They cannot appear without an object, as \REF{Cognb} shows.
+Please only return True or False.
+
+Question 2:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: m-áwɛ̀ ma-H kwè
+Gloss: ma6-goliath.frog 6-PRS fall
+The English translation of this sentence is: `The goliath frogs fall.'
+Here is a relevant knowledge point for this example to help you judge: In \REF{NCOM1}, both examples are excluded from \textsc{stamp} marker omission, based on the CV noun class prefix. In contrast, in \REF{NCOM2} with consonantal noun class prefixes, only the plural noun in \REF{NCOM2b} does not allow \textsc{stamp} marker omission, but its singular counterpart in \REF{NCOM2a} does allow it.
+Please only return True or False.
+
+Question 3:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: mɛ̀ lámbɔ-H mɔ̀ kù
+Gloss: 1SG trap-R COMPL emptyset1.rat
+The English translation of this sentence is: `I have (already) trapped the rat.'}
+Here is a relevant knowledge point for this example to help you judge: While there are some verbs, as in \REF{absmo1}, which can take both the {\itshape mɔ̀} form and the contracted form, other verbs can only take one or the other. {\itshape lámbɔ} `trap', for instance, can only take the contracted form as in \REF{absmo2a}, while the non-contracted form in \REF{absmo2b} is judged as ungrammatical. It seems to be lexically determined whether a verb takes one or the other or both forms.
+Please only return True or False.
+

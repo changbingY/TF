@@ -1,0 +1,8 @@
+Question 1:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: m-ùdũ̂ nà síngì a-H/yi-H kwê
+Gloss: N1.man COM ∅.7.cat 1-PRS/7-PRS fall
+The English translation of this sentence is: `The man and the cat fall.'}
+Here is a relevant knowledge point for this example to help you judge: \REF{resol3} shows two things. First, coordinated noun phrases with two singular conjuncts always require a plural class verbal subject marker. A singular \textsc{stamp} marker is never allowed, as shown in \REF{resol3c}, no matter in which order the two conjuncts occur. Second, if the nouns of the two conjuncts belong to different animate categories, namely humans and animals, just like \REF{resol2}, the semantic default agreement marker can either be chosen from the human/animate class 2 or the inanimate class 8. The choice between the two seems to correlate with pragmatic salience of either one of the conjuncts.
+Please only return True or False.
+

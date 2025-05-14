@@ -1,0 +1,16 @@
+Question 1:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: ba-mu-kéntu u-angú
+Gloss: NP2-NP1-woman PP1-POSS1SG
+The English translation of this sentence is: ‘my wife’
+Here is a relevant knowledge point for this example to help you judge: Not all nouns can take the augment; the augment is never used with personal names, as in (\ref{bkm:Ref99541892}), or with nouns that are marked with a secondary nominal prefix, such as that of class 2 to mark a honorific, as in (\ref{bkm:Ref99541909}), or those of class 16, 17 or 18 to mark a location, as in (\ref{bkm:Ref99541911}).
+Please only return True or False.
+
+Question 2:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: ku-ru-wa
+Gloss: NP17-NP11-field
+The English translation of this sentence is: ‘at the field’
+Here is a relevant knowledge point for this example to help you judge: Not all nouns can take the augment; the augment is never used with personal names, as in (\ref{bkm:Ref99541892}), or with nouns that are marked with a secondary nominal prefix, such as that of class 2 to mark a honorific, as in (\ref{bkm:Ref99541909}), or those of class 16, 17 or 18 to mark a location, as in (\ref{bkm:Ref99541911}).
+Please only return True or False.
+

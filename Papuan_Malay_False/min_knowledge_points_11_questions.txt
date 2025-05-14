@@ -1,0 +1,24 @@
+Question 1:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence:  saya biking makang anjing deng papeda
+Gloss: ... 1SG make eat dog with sagu.porridge
+The English translation of this sentence is: ‘I made the dogs eat papeda’
+Here is a relevant knowledge point for this example to help you judge: As a \isi{causative}, \isi{bivalent} \textitbf{biking} ‘make’ is used with \isi{monovalent} bases. Semantically, this \isi{causative} type stresses the causer’s manipulation of circumstances, which leads to the caused event or effect. That is, \textitbf{biking}{}-causatives are causer-controlled, with the causee having no control. Therefore, causatives with \textitbf{biking} ‘make’ are formed with \isi{monovalent} non-agentive bases, or with \isi{monovalent} agentive bases with inanimate or with animate but helpless causees. This is shown in ({\ref{Example_11.62}) to ({\ref{Example_11.67}). Overall, though, \textitbf{biking}{}-causatives are rare in the corpus.
+Please only return True or False. Do not say anything else. 
+
+Question 2:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence:  sa di bawa, Roni biking duduk sa di atas
+Gloss: ... 1SG at bottom Roni make sit 1SG at top
+The English translation of this sentence is: ‘I was down (in the cargo area, but) Roni made me sit on top (of the cab)’
+Here is a relevant knowledge point for this example to help you judge: Causatives with agentive bases are unacceptable. This is due to the fact that \textitbf{biking}{}-causatives focus on the causer’s manipulation of circumstances itself while the causee has no control. This is illustrated with the unacceptable \textitbf{biking}{}-causatives in ({\ref{Example_11.66}) and ({\ref{Example_11.67}), which are formed with \isi{monovalent} dynamic \textitbf{duduk} ‘sit’ and \isi{bivalent} \textitbf{makang} ‘eat’, respectively. The two elicited examples contrast with the corresponding \textitbf{kasi}{}-causatives in ({\ref{Example_11.56}) and ({\ref{Example_11.60}).
+Please only return True or False. Do not say anything else. 
+
+Question 3:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence:  saya biking makang anjing deng papeda
+Gloss: ... 1SG make eat dog with sagu.porridge
+The English translation of this sentence is: ‘I made the dogs eat papeda’
+Here is a relevant knowledge point for this example to help you judge: Causatives with agentive bases are unacceptable. This is due to the fact that \textitbf{biking}{}-causatives focus on the causer’s manipulation of circumstances itself while the causee has no control. This is illustrated with the unacceptable \textitbf{biking}{}-causatives in ({\ref{Example_11.66}) and ({\ref{Example_11.67}), which are formed with \isi{monovalent} dynamic \textitbf{duduk} ‘sit’ and \isi{bivalent} \textitbf{makang} ‘eat’, respectively. The two elicited examples contrast with the corresponding \textitbf{kasi}{}-causatives in ({\ref{Example_11.56}) and ({\ref{Example_11.60}).
+Please only return True or False. Do not say anything else. 
+

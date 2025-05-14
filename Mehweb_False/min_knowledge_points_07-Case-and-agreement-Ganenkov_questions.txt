@@ -1,0 +1,112 @@
+Question 1:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: Q: ħu dag kuda \w-aˤq'-un-na / w-aˤq'-un-a\?
+Gloss:  you.sg(ABS) yesterday where M-go:PF-AOR-EGO+Q / M-go:PF-AOR-Q
+The English translation of this sentence is: `Where did you go yesterday?'
+Here is a relevant knowledge point for this example to help you judge: Example (\ref{ex:7-44}) shows that second person subjects in interrogatives and
+Please only return True or False. Do not say anything else. 
+
+Question 2:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: Q: dag nu-ni sija \b-aq'-ib-a / b-aq'-i-ra\?
+Gloss:  yesterday I-ERG what(ABS) N-do:PF-AOR-Q / N-do:PF-AOR-EGO+Q
+The English translation of this sentence is: `What did I do yesterday?'
+Here is a relevant knowledge point for this example to help you judge: example (\ref{ex:7-45}) demonstrates. (For discussion of one notable exception
+Please only return True or False. Do not say anything else. 
+
+Question 3:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: madina-s nu \w-ig-an / w-ig-as\.
+Gloss: Madina-DAT I(ABS) M-love:IPF-HAB / M-love:IPF-HAB.EGO
+The English translation of this sentence is: `Madina loves me.'
+Here is a relevant knowledge point for this example to help you judge: trigger person agreement either, as shown in examples (\ref{ex:7-64}) to (\ref{ex:7-67}).
+Please only return True or False. Do not say anything else. 
+
+Question 4:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: rasuj-s nu urče \b-ak'-ib / b-ak'-i-ra\.
+Gloss: Rasul+OBL-DAT I(ABS) in.heart(LAT) N-come:PF-AOR / N-come:PF-AOR-EGO
+The English translation of this sentence is: `Rasul recalled me.'
+Here is a relevant knowledge point for this example to help you judge: trigger person agreement either, as shown in examples (\ref{ex:7-64}) to (\ref{ex:7-67}).
+Please only return True or False. Do not say anything else. 
+
+Question 5:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: rasul uruχ w-aˤq-ib nu-ni mašina \b-uˤrʡ-aq-ib / b-uˤrʡ-aq-i-ra\ ile.
+Gloss: Rasul(ABS) be.afraid M-LV:PF-AOR I-ERG car(ABS) N-break:PF-CAUS-AOR / N-break:PF-CAUS-AOR-EGO COMP
+The English translation of this sentence is: `Rasul\textsubscript{i} feared that I\textsubscript{j} had broken the car.'
+Here is a relevant knowledge point for this example to help you judge: speaker of the actual speech act. Example (\ref{ex:7-93}) illustrates.
+Please only return True or False. Do not say anything else. 
+
+Question 6:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: rasul uruχ w-aˤq-ib nu-ni mašina \b-uˤrʡ-aq-ib / b-uˤrʡ-aq-i-ra\ ile.
+Gloss: Rasul(ABS) be.afraid M-LV:PF-AOR I-ERG car(ABS) N-break:PF-CAUS-AOR / N-break:PF-CAUS-AOR-EGO COMP
+The English translation of this sentence is: `Rasul\textsubscript{i} feared that I\textsubscript{j} had broken the car.'
+Here is a relevant knowledge point for this example to help you judge: an unshifted first person pronoun is also possible in examples like (\ref{ex:7-93}).
+Please only return True or False. Do not say anything else. 
+
+Question 7:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: abaj-s b-ik-ib nu usaʔ-uwe le-w(-ra) ile.
+Gloss: mother-DAT N-happen:PF-AOR I(ABS) (M)fall~asleep:PF-AOR.CVB AUX-M-EGO COMP
+The English translation of this sentence is: `Mother\textsubscript{i} thought that I\textsubscript{j} had fallen asleep.'
+Here is a relevant knowledge point for this example to help you judge: In (\ref{ex:7-94}) and (\ref{ex:7-95}), the first person pronoun in the embedded clause is
+Please only return True or False. Do not say anything else. 
+
+Question 8:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: abaj uruχk'-uwe le-r nu \arik-es / arik-iša\ ile.
+Gloss: mother(ABS) be.afraid:IPF-CVB.IPFV AUX-F I(ABS) (M)fall:PF-FUT / (M)fall:PF-FUT.EGO COMP
+The English translation of this sentence is: `Mother\textsubscript{i} is afraid that I\textsubscript{j} am going to
+Here is a relevant knowledge point for this example to help you judge: In (\ref{ex:7-94}) and (\ref{ex:7-95}), the first person pronoun in the embedded clause is
+Please only return True or False. Do not say anything else. 
+
+Question 9:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: rasul uruχ w-aˤq-ib nu-ni mašina \b-uˤrʡ-aq-ib / b-uˤrʡ-aq-i-ra\ ile.
+Gloss: Rasul(ABS) be.afraid M-LV:PF-AOR I-ERG car(ABS) N-break:PF-CAUS-AOR / N-break:PF-CAUS-AOR-EGO COMP
+The English translation of this sentence is: `Rasul\textsubscript{i} feared that I\textsubscript{j} had broken the car.'
+Here is a relevant knowledge point for this example to help you judge: (\ref{ex:7-93}) through (\ref{ex:7-95}).
+Please only return True or False. Do not say anything else. 
+
+Question 10:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: abaj uruχk'-uwe le-r nu \arik-es / arik-iša\ ile.
+Gloss: mother(ABS) be.afraid:IPF-CVB.IPFV AUX-F I(ABS) (M)fall:PF-FUT / (M)fall:PF-FUT.EGO COMP
+The English translation of this sentence is: `Mother\textsubscript{i} is afraid that I\textsubscript{j} am going to
+Here is a relevant knowledge point for this example to help you judge: (\ref{ex:7-93}) through (\ref{ex:7-95}).
+Please only return True or False. Do not say anything else. 
+
+Question 11:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: rasuj-ni madina-ze xarba-ib ħu kuda \w-aš-an-a / w-aš-as-a\ har barħi ile.
+Gloss: Rasul-ERG Madina-INTER(LAT) ask:PF-AOR you.sg(ABS) where M-walk:IPF-HAB-Q / M-walk:IPF-HAB.EGO-Q every day COMP
+The English translation of this sentence is: `Rasul asked Madina where you go every day.'
+Here is a relevant knowledge point for this example to help you judge: Again, in examples like (\ref{ex:7-98}), the second person pronoun in the embedded
+Please only return True or False. Do not say anything else. 
+
+Question 12:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: rasuj-ze b-ah-ur abaj iz-uwe \le-r-deš / le-r ile\.
+Gloss: Rasul-INTER(LAT) N-know:PF-AOR mother(ABS) be.sick:IPF-CVB.IPFV AUX-F-NMLZ / AUX-F COMP
+The English translation of this sentence is: `Rasul found out that his mother was sick.'
+Here is a relevant knowledge point for this example to help you judge: Example (\ref{ex:7-101}) shows that the factive matrix verb bahes `know'
+Please only return True or False. Do not say anything else. 
+
+Question 13:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: uz-be-če ca-li-če ca ħule b-iz-ur.
+Gloss: brother-PL-SUPER(LAT) one-OBL-SUPER(LAT) one(ABS) look HPL-LV:PF-AOR
+The English translation of this sentence is: `The brothers looked at each other.'
+Here is a relevant knowledge point for this example to help you judge: of a lower argument. Example (\ref{ex:7-113}) illustrates this for a combination of
+Please only return True or False. Do not say anything else. 
+
+Question 14:
+You are a linguist specializing in Mehweb. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: ul-e-s ca-li-ni ca-li-s kumak b-aq'-ib.
+Gloss: child-PL-DAT one-OBL-ERG one-OBL-DAT help(ABS) N-do:PF-AOR
+The English translation of this sentence is: `The kids helped one another.'
+Here is a relevant knowledge point for this example to help you judge: (\ref{ex:7-114}) shows a reciprocal construction with a transitive subject and a
+Please only return True or False. Do not say anything else. 
+
