@@ -1,0 +1,8 @@
+Question 1:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: \glll Big.dé~\textup{[bìgdé]} → E bíg.~\textup{[è~bík]}
+Gloss: big.day {} 3SG.SBJ be.big
+The English translation of this sentence is: \glt‘Festivity’ {} {‘It’s big.’}
+Here is a relevant knowledge point for this example to help you judge: The dislocated possessive construction requires coreferentiality of the possessive pronoun and the possessor. Hence \REF{ex:key:240}, which involves a \textsc{2sg} person possessor, is ungrammatical:
+Please only return True or False. Do not say anything else. 
+

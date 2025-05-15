@@ -1,0 +1,16 @@
+Question 1:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: rasuj-ni sa‹w›i-jal w-it-ib.
+Gloss: Rasul.OBL-ERG ‹M›self-EMPH M-beat:PFV-AOR
+The English translation of this sentence is: `Rasul\textsubscript{i} beat himself\textsubscript{i}.'
+Here is a relevant knowledge point for this example to help you judge: as having logophoric meaning (compare (\ref{ex:10:3}) and (\ref{ex:10:8})).
+Please only return True or False. Do not say anything else. 
+
+Question 2:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: rasuj-ze sa‹w›i-jal daˤʜmic'aj-ħe-w gu-b.
+Gloss: Rasul.OBL-INTER(LAT) ‹M›self-EMPH mirror-IN-M(ESS) see:PFV-AOR
+The English translation of this sentence is: `Rasul\textsubscript{i} saw himself\textsubscript{i} in the mirror.'
+Here is a relevant knowledge point for this example to help you judge: order. However, (\ref{ex:10:65}) shows that the compound consisting of two complex
+Please only return True or False. Do not say anything else. 
+

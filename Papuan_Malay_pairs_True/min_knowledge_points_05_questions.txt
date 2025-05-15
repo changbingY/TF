@@ -1,0 +1,184 @@
+Question 1:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: dua orang
+Gloss: two person
+The English translation of this sentence is: ‘two people’
+Here is a relevant knowledge point for this example to help you judge: Mass nouns can be modified with quantifiers, which always occur in posthead position, as in (\ref{Example_5.7}) and (\ref{Example_5.8}). That is, the quantifiers cannot occur in prehead position, as shown with the elicited ungrammatical constructions in (\ref{Example_5.9}) and (\ref{Example_5.10}). Also, mass nouns cannot co-occur with numerals, neither in pre- nor in posthead position, as shown with the elicited ungrammatical examples in (\ref{Example_5.11}) and (\ref{Example_5.12}). (As for the position of adnominal quantifiers vis-à-vis their head nominal and the semantics involved, see §\ref{Para_5.10} and §\ref{Para_8.3.2}.)
+Please only return True or False. Do not say anything else. 
+
+Question 2:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: sagu banyak
+Gloss: sago many
+The English translation of this sentence is: ‘lots of sago’
+Here is a relevant knowledge point for this example to help you judge: Mass nouns can be modified with quantifiers, which always occur in posthead position, as in (\ref{Example_5.7}) and (\ref{Example_5.8}). That is, the quantifiers cannot occur in prehead position, as shown with the elicited ungrammatical constructions in (\ref{Example_5.9}) and (\ref{Example_5.10}). Also, mass nouns cannot co-occur with numerals, neither in pre- nor in posthead position, as shown with the elicited ungrammatical examples in (\ref{Example_5.11}) and (\ref{Example_5.12}). (As for the position of adnominal quantifiers vis-à-vis their head nominal and the semantics involved, see §\ref{Para_5.10} and §\ref{Para_8.3.2}.)
+Please only return True or False. Do not say anything else. 
+
+Question 3:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: sagu sedikit
+Gloss: sago few
+The English translation of this sentence is: ‘little sago’
+Here is a relevant knowledge point for this example to help you judge: Mass nouns can be modified with quantifiers, which always occur in posthead position, as in (\ref{Example_5.7}) and (\ref{Example_5.8}). That is, the quantifiers cannot occur in prehead position, as shown with the elicited ungrammatical constructions in (\ref{Example_5.9}) and (\ref{Example_5.10}). Also, mass nouns cannot co-occur with numerals, neither in pre- nor in posthead position, as shown with the elicited ungrammatical examples in (\ref{Example_5.11}) and (\ref{Example_5.12}). (As for the position of adnominal quantifiers vis-à-vis their head nominal and the semantics involved, see §\ref{Para_5.10} and §\ref{Para_8.3.2}.)
+Please only return True or False. Do not say anything else. 
+
+Question 4:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: Paynete situ
+Gloss: Paynete L.MED
+The English translation of this sentence is: ‘Paynete there’
+Here is a relevant knowledge point for this example to help you judge: The postpredicate position is illustrated in (\ref{Example_5.167}) to (\ref{Example_5.170}). In clauses with peripheral adjuncts, the ad\isi{verb} follows the predicate and precedes the adjunct, such as \textitbf{nanti} ‘very soon’ in the elicited example in (\ref{Example_5.167}) and \textitbf{langsung} ‘immediately’ in (\ref{Example_5.169}). Clauses, in which the temporal ad\isi{verb} follows the peripheral adjunct are either ungrammatical, such as \textitbf{nanti} ‘very soon’ in the elicited examples in (\ref{Example_5.168}), or only marginally grammatical such as \textitbf{langsung} ‘immediately’ in the elicited contrastive examples in (\ref{Example_5.170}).
+Please only return True or False. Do not say anything else. 
+
+Question 5:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: Muay mana?
+Gloss: Muay where?
+The English translation of this sentence is: ‘which Muay?’
+Here is a relevant knowledge point for this example to help you judge: The postpredicate position is illustrated in (\ref{Example_5.167}) to (\ref{Example_5.170}). In clauses with peripheral adjuncts, the ad\isi{verb} follows the predicate and precedes the adjunct, such as \textitbf{nanti} ‘very soon’ in the elicited example in (\ref{Example_5.167}) and \textitbf{langsung} ‘immediately’ in (\ref{Example_5.169}). Clauses, in which the temporal ad\isi{verb} follows the peripheral adjunct are either ungrammatical, such as \textitbf{nanti} ‘very soon’ in the elicited examples in (\ref{Example_5.168}), or only marginally grammatical such as \textitbf{langsung} ‘immediately’ in the elicited contrastive examples in (\ref{Example_5.170}).
+Please only return True or False. Do not say anything else. 
+
+Question 6:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: tong pergi nanti ke Sarmi
+Gloss: 1PL go very.soon to Sarmi
+The English translation of this sentence is: ‘we’ll go \textbf{very soon}’ to Sarmi’
+Here is a relevant knowledge point for this example to help you judge: The postpredicate position is illustrated in (\ref{Example_5.167}) to (\ref{Example_5.170}). In clauses with peripheral adjuncts, the ad\isi{verb} follows the predicate and precedes the adjunct, such as \textitbf{nanti} ‘very soon’ in the elicited example in (\ref{Example_5.167}) and \textitbf{langsung} ‘immediately’ in (\ref{Example_5.169}). Clauses, in which the temporal ad\isi{verb} follows the peripheral adjunct are either ungrammatical, such as \textitbf{nanti} ‘very soon’ in the elicited examples in (\ref{Example_5.168}), or only marginally grammatical such as \textitbf{langsung} ‘immediately’ in the elicited contrastive examples in (\ref{Example_5.170}).
+Please only return True or False. Do not say anything else. 
+
+Question 7:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: ... tak!, masuk langsung di bawa meja sana
+Gloss: ... bang! enter immediately at bottom table L.DIST
+The English translation of this sentence is: [About a small boy who had a collision with an evil spirit:] ‘whump!, \textbf{immediately} (the kid) went under the table over there’
+Here is a relevant knowledge point for this example to help you judge: The postpredicate position is illustrated in (\ref{Example_5.167}) to (\ref{Example_5.170}). In clauses with peripheral adjuncts, the ad\isi{verb} follows the predicate and precedes the adjunct, such as \textitbf{nanti} ‘very soon’ in the elicited example in (\ref{Example_5.167}) and \textitbf{langsung} ‘immediately’ in (\ref{Example_5.169}). Clauses, in which the temporal ad\isi{verb} follows the peripheral adjunct are either ungrammatical, such as \textitbf{nanti} ‘very soon’ in the elicited examples in (\ref{Example_5.168}), or only marginally grammatical such as \textitbf{langsung} ‘immediately’ in the elicited contrastive examples in (\ref{Example_5.170}).
+Please only return True or False. Do not say anything else. 
+
+Question 8:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: Suebu satu ni
+Gloss: Suebu one D.PROX
+The English translation of this sentence is: ‘this certain (member of the) Suebu (family)’
+Here is a relevant knowledge point for this example to help you judge: The intensifier \textitbf{terlalu} ‘too’ also occurs in prepredicate position, as in (\ref{Example_5.187}). By contrast, \textitbf{skali} ‘very’ takes a postpredicate position, as illustrated in (\ref{Example_5.188}) to (\ref{Example_5.190}). In clauses with peripheral adjuncts, as in (\ref{Example_5.189}), \textitbf{skali} ‘very’ follows the predicate, such as \textitbf{enak} ‘be pleasant’ in (\ref{Example_5.189}). Clauses in which \textitbf{skali} ‘very’ follows the peripheral adjunct, as in the elicited example in (\ref{Example_5.190}), are ungrammatical.
+Please only return True or False. Do not say anything else. 
+
+Question 9:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: Sope banyak
+Gloss: Sope many
+The English translation of this sentence is: ‘many Sope (family members)’
+Here is a relevant knowledge point for this example to help you judge: The intensifier \textitbf{terlalu} ‘too’ also occurs in prepredicate position, as in (\ref{Example_5.187}). By contrast, \textitbf{skali} ‘very’ takes a postpredicate position, as illustrated in (\ref{Example_5.188}) to (\ref{Example_5.190}). In clauses with peripheral adjuncts, as in (\ref{Example_5.189}), \textitbf{skali} ‘very’ follows the predicate, such as \textitbf{enak} ‘be pleasant’ in (\ref{Example_5.189}). Clauses in which \textitbf{skali} ‘very’ follows the peripheral adjunct, as in the elicited example in (\ref{Example_5.190}), are ungrammatical.
+Please only return True or False. Do not say anything else. 
+
+Question 10:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: a, ko terlalu bodo
+Gloss: ah! 2SG too be.stupid
+The English translation of this sentence is: ‘ah, you are \textbf{too} stupid’
+Here is a relevant knowledge point for this example to help you judge: The intensifier \textitbf{terlalu} ‘too’ also occurs in prepredicate position, as in (\ref{Example_5.187}). By contrast, \textitbf{skali} ‘very’ takes a postpredicate position, as illustrated in (\ref{Example_5.188}) to (\ref{Example_5.190}). In clauses with peripheral adjuncts, as in (\ref{Example_5.189}), \textitbf{skali} ‘very’ follows the predicate, such as \textitbf{enak} ‘be pleasant’ in (\ref{Example_5.189}). Clauses in which \textitbf{skali} ‘very’ follows the peripheral adjunct, as in the elicited example in (\ref{Example_5.190}), are ungrammatical.
+Please only return True or False. Do not say anything else. 
+
+Question 11:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: ade bongso jadi ko sayang dia skali e?
+Gloss: ySb youngest.offspring so 2SG love 3SG very eh
+The English translation of this sentence is: ‘(your) youngest sibling, so you love her \textbf{very much}, eh?’
+Here is a relevant knowledge point for this example to help you judge: The intensifier \textitbf{terlalu} ‘too’ also occurs in prepredicate position, as in (\ref{Example_5.187}). By contrast, \textitbf{skali} ‘very’ takes a postpredicate position, as illustrated in (\ref{Example_5.188}) to (\ref{Example_5.190}). In clauses with peripheral adjuncts, as in (\ref{Example_5.189}), \textitbf{skali} ‘very’ follows the predicate, such as \textitbf{enak} ‘be pleasant’ in (\ref{Example_5.189}). Clauses in which \textitbf{skali} ‘very’ follows the peripheral adjunct, as in the elicited example in (\ref{Example_5.190}), are ungrammatical.
+Please only return True or False. Do not say anything else. 
+
+Question 12:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: kamu orang-tua enak skali di sana
+Gloss: 2PL parent be.pleasant very at L.DIST
+The English translation of this sentence is: ‘you, the parents, (have) \textbf{very} pleasant (lives) over there’ (Lit. ‘you ... are \textbf{very} pleasant’)
+Here is a relevant knowledge point for this example to help you judge: The intensifier \textitbf{terlalu} ‘too’ also occurs in prepredicate position, as in (\ref{Example_5.187}). By contrast, \textitbf{skali} ‘very’ takes a postpredicate position, as illustrated in (\ref{Example_5.188}) to (\ref{Example_5.190}). In clauses with peripheral adjuncts, as in (\ref{Example_5.189}), \textitbf{skali} ‘very’ follows the predicate, such as \textitbf{enak} ‘be pleasant’ in (\ref{Example_5.189}). Clauses in which \textitbf{skali} ‘very’ follows the peripheral adjunct, as in the elicited example in (\ref{Example_5.190}), are ungrammatical.
+Please only return True or False. Do not say anything else. 
+
+Question 13:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: baru kita pergi skola, suda mulay sembu
+Gloss: and.then 1PL go school already start be.healed
+The English translation of this sentence is: [After an accident:] ‘and then we went (back) to school, (our wounds) were \textbf{almost} healed’ (Lit. ‘\textbf{already started to} be healed’) [081014-012-NP.0005]
+Here is a relevant knowledge point for this example to help you judge: The diminishers \textitbf{agak} ‘rather’ and \textitbf{hampir} ‘almost’ also occur in prepredicate position, as illustrated in (\ref{Example_5.191}) to (\ref{Example_5.194}). Always directly preceding the \isi{verb}, \textitbf{agak} ‘rather’ modifies stative verbs, as in (\ref{Example_5.191}). Clauses in which \textitbf{agak} ‘rather’ precedes the subject, as in the elicited example in (\ref{Example_5.192}), are ungrammatical. Diminisher \textitbf{hampir} ‘almost’ typically modifies dynamic verbs, as in (\ref{Example_5.193}) and (\ref{Example_5.194}).\footnote{According to one consultant, some Papuan Malay speakers also use \textitbf{hampir} ‘almost’ to modify stative verbs. Much more often though they employ a construction with \textitbf{su mulay} ‘already start to’ as in (\ref{Footnote_Example_5.1}) below:
+Please only return True or False. Do not say anything else. 
+
+Question 14:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: sa su agak besar
+Gloss: 1SG already rather be.big
+The English translation of this sentence is: [About the speaker’s childhood:] ‘I was already \textbf{rather} big’
+Here is a relevant knowledge point for this example to help you judge: The diminishers \textitbf{agak} ‘rather’ and \textitbf{hampir} ‘almost’ also occur in prepredicate position, as illustrated in (\ref{Example_5.191}) to (\ref{Example_5.194}). Always directly preceding the \isi{verb}, \textitbf{agak} ‘rather’ modifies stative verbs, as in (\ref{Example_5.191}). Clauses in which \textitbf{agak} ‘rather’ precedes the subject, as in the elicited example in (\ref{Example_5.192}), are ungrammatical. Diminisher \textitbf{hampir} ‘almost’ typically modifies dynamic verbs, as in (\ref{Example_5.193}) and (\ref{Example_5.194}).\footnote{According to one consultant, some Papuan Malay speakers also use \textitbf{hampir} ‘almost’ to modify stative verbs. Much more often though they employ a construction with \textitbf{su mulay} ‘already start to’ as in (\ref{Footnote_Example_5.1}) below:
+Please only return True or False. Do not say anything else. 
+
+Question 15:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: dong hampir bunu bapa
+Gloss: 3PL almost kill father
+The English translation of this sentence is: ‘they \textbf{almost} killed (my) father’
+Here is a relevant knowledge point for this example to help you judge: The diminishers \textitbf{agak} ‘rather’ and \textitbf{hampir} ‘almost’ also occur in prepredicate position, as illustrated in (\ref{Example_5.191}) to (\ref{Example_5.194}). Always directly preceding the \isi{verb}, \textitbf{agak} ‘rather’ modifies stative verbs, as in (\ref{Example_5.191}). Clauses in which \textitbf{agak} ‘rather’ precedes the subject, as in the elicited example in (\ref{Example_5.192}), are ungrammatical. Diminisher \textitbf{hampir} ‘almost’ typically modifies dynamic verbs, as in (\ref{Example_5.193}) and (\ref{Example_5.194}).\footnote{According to one consultant, some Papuan Malay speakers also use \textitbf{hampir} ‘almost’ to modify stative verbs. Much more often though they employ a construction with \textitbf{su mulay} ‘already start to’ as in (\ref{Footnote_Example_5.1}) below:
+Please only return True or False. Do not say anything else. 
+
+Question 16:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: hampir dong bunu bapa
+Gloss: almost 3PL kill father
+The English translation of this sentence is: ‘(it) \textbf{almost} (happened that) they killed (my) father’
+Here is a relevant knowledge point for this example to help you judge: The diminishers \textitbf{agak} ‘rather’ and \textitbf{hampir} ‘almost’ also occur in prepredicate position, as illustrated in (\ref{Example_5.191}) to (\ref{Example_5.194}). Always directly preceding the \isi{verb}, \textitbf{agak} ‘rather’ modifies stative verbs, as in (\ref{Example_5.191}). Clauses in which \textitbf{agak} ‘rather’ precedes the subject, as in the elicited example in (\ref{Example_5.192}), are ungrammatical. Diminisher \textitbf{hampir} ‘almost’ typically modifies dynamic verbs, as in (\ref{Example_5.193}) and (\ref{Example_5.194}).\footnote{According to one consultant, some Papuan Malay speakers also use \textitbf{hampir} ‘almost’ to modify stative verbs. Much more often though they employ a construction with \textitbf{su mulay} ‘already start to’ as in (\ref{Footnote_Example_5.1}) below:
+Please only return True or False. Do not say anything else. 
+
+Question 17:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: orang dua
+Gloss: person two
+The English translation of this sentence is: ‘both people’
+Here is a relevant knowledge point for this example to help you judge: Papuan Malay also allows the stacking of demonstratives. Typically, only identical demonstratives are stacked, as in (\ref{Example_5.218}) and (\ref{Example_5.219}). To some degree, however, non-identical demonstratives can also be stacked, as shown in (\ref{Example_5.220}) and (\ref{Example_5.221}).\footnote{Juxtaposed \textitbf{ini ni} ‘\textsc{d.prox d.prox}’ and \textitbf{itu tu} ‘\textsc{d.dist d.dist}’ are not taken as instances of partial \isi{reduplication}. As discussed in §\ref{Para_4.1.2}, partial \isi{reduplication} of the stems \textitbf{ini} ‘\textsc{d.prox}’ and \textitbf{itu} ‘\textsc{d.dist}’ should result in the reduplicated forms \textitbf{in{\Tilde}ini} ‘\textsc{d.prox{\Tilde}d.prox}’ and \textitbf{it{\Tilde}itu} ‘\textsc{d.dist}{\Tilde}\textsc{d.dist}’, respectively. Therefore, \textitbf{ini ni} ‘\textsc{d.prox d.prox}’ and \textitbf{itu tu} ‘\textsc{d.dist} \textsc{d.dist}’ are taken as instances of \isi{demonstrative} stacking. Reduplication of demonstratives does occur, however, as discussed in §\ref{Para_4.2.5.2}.}
+Please only return True or False. Do not say anything else. 
+
+Question 18:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: {di} {atas} {pohong}
+Gloss: at  top  tree
+The English translation of this sentence is: ‘at the top of the tree’
+Here is a relevant knowledge point for this example to help you judge: Papuan Malay also allows the stacking of demonstratives. Typically, only identical demonstratives are stacked, as in (\ref{Example_5.218}) and (\ref{Example_5.219}). To some degree, however, non-identical demonstratives can also be stacked, as shown in (\ref{Example_5.220}) and (\ref{Example_5.221}).\footnote{Juxtaposed \textitbf{ini ni} ‘\textsc{d.prox d.prox}’ and \textitbf{itu tu} ‘\textsc{d.dist d.dist}’ are not taken as instances of partial \isi{reduplication}. As discussed in §\ref{Para_4.1.2}, partial \isi{reduplication} of the stems \textitbf{ini} ‘\textsc{d.prox}’ and \textitbf{itu} ‘\textsc{d.dist}’ should result in the reduplicated forms \textitbf{in{\Tilde}ini} ‘\textsc{d.prox{\Tilde}d.prox}’ and \textitbf{it{\Tilde}itu} ‘\textsc{d.dist}{\Tilde}\textsc{d.dist}’, respectively. Therefore, \textitbf{ini ni} ‘\textsc{d.prox d.prox}’ and \textitbf{itu tu} ‘\textsc{d.dist} \textsc{d.dist}’ are taken as instances of \isi{demonstrative} stacking. Reduplication of demonstratives does occur, however, as discussed in §\ref{Para_4.2.5.2}.}
+Please only return True or False. Do not say anything else. 
+
+Question 19:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: di bawa pohong
+Gloss: at  bottom  tree
+The English translation of this sentence is: ‘under the tree’
+Here is a relevant knowledge point for this example to help you judge: Papuan Malay also allows the stacking of demonstratives. Typically, only identical demonstratives are stacked, as in (\ref{Example_5.218}) and (\ref{Example_5.219}). To some degree, however, non-identical demonstratives can also be stacked, as shown in (\ref{Example_5.220}) and (\ref{Example_5.221}).\footnote{Juxtaposed \textitbf{ini ni} ‘\textsc{d.prox d.prox}’ and \textitbf{itu tu} ‘\textsc{d.dist d.dist}’ are not taken as instances of partial \isi{reduplication}. As discussed in §\ref{Para_4.1.2}, partial \isi{reduplication} of the stems \textitbf{ini} ‘\textsc{d.prox}’ and \textitbf{itu} ‘\textsc{d.dist}’ should result in the reduplicated forms \textitbf{in{\Tilde}ini} ‘\textsc{d.prox{\Tilde}d.prox}’ and \textitbf{it{\Tilde}itu} ‘\textsc{d.dist}{\Tilde}\textsc{d.dist}’, respectively. Therefore, \textitbf{ini ni} ‘\textsc{d.prox d.prox}’ and \textitbf{itu tu} ‘\textsc{d.dist} \textsc{d.dist}’ are taken as instances of \isi{demonstrative} stacking. Reduplication of demonstratives does occur, however, as discussed in §\ref{Para_4.2.5.2}.}
+Please only return True or False. Do not say anything else. 
+
+Question 20:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: ada segala macang tulang dia buang [ini ni]
+Gloss: exist all variety bone 3SG throw(.away) D.PROX D.PROX
+The English translation of this sentence is: ‘there were all kinds of bones, he threw away \textbf{these very (ones)}’
+Here is a relevant knowledge point for this example to help you judge: Papuan Malay also allows the stacking of demonstratives. Typically, only identical demonstratives are stacked, as in (\ref{Example_5.218}) and (\ref{Example_5.219}). To some degree, however, non-identical demonstratives can also be stacked, as shown in (\ref{Example_5.220}) and (\ref{Example_5.221}).\footnote{Juxtaposed \textitbf{ini ni} ‘\textsc{d.prox d.prox}’ and \textitbf{itu tu} ‘\textsc{d.dist d.dist}’ are not taken as instances of partial \isi{reduplication}. As discussed in §\ref{Para_4.1.2}, partial \isi{reduplication} of the stems \textitbf{ini} ‘\textsc{d.prox}’ and \textitbf{itu} ‘\textsc{d.dist}’ should result in the reduplicated forms \textitbf{in{\Tilde}ini} ‘\textsc{d.prox{\Tilde}d.prox}’ and \textitbf{it{\Tilde}itu} ‘\textsc{d.dist}{\Tilde}\textsc{d.dist}’, respectively. Therefore, \textitbf{ini ni} ‘\textsc{d.prox d.prox}’ and \textitbf{itu tu} ‘\textsc{d.dist} \textsc{d.dist}’ are taken as instances of \isi{demonstrative} stacking. Reduplication of demonstratives does occur, however, as discussed in §\ref{Para_4.2.5.2}.}
+Please only return True or False. Do not say anything else. 
+
+Question 21:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: orang ini tu percaya sama Tuhang Yesus
+Gloss: person D.PROX D.DIST trust to God Jesus
+The English translation of this sentence is: ‘\textbf{that person here} believes in God Jesus’
+Here is a relevant knowledge point for this example to help you judge: Papuan Malay also allows the stacking of demonstratives. Typically, only identical demonstratives are stacked, as in (\ref{Example_5.218}) and (\ref{Example_5.219}). To some degree, however, non-identical demonstratives can also be stacked, as shown in (\ref{Example_5.220}) and (\ref{Example_5.221}).\footnote{Juxtaposed \textitbf{ini ni} ‘\textsc{d.prox d.prox}’ and \textitbf{itu tu} ‘\textsc{d.dist d.dist}’ are not taken as instances of partial \isi{reduplication}. As discussed in §\ref{Para_4.1.2}, partial \isi{reduplication} of the stems \textitbf{ini} ‘\textsc{d.prox}’ and \textitbf{itu} ‘\textsc{d.dist}’ should result in the reduplicated forms \textitbf{in{\Tilde}ini} ‘\textsc{d.prox{\Tilde}d.prox}’ and \textitbf{it{\Tilde}itu} ‘\textsc{d.dist}{\Tilde}\textsc{d.dist}’, respectively. Therefore, \textitbf{ini ni} ‘\textsc{d.prox d.prox}’ and \textitbf{itu tu} ‘\textsc{d.dist} \textsc{d.dist}’ are taken as instances of \isi{demonstrative} stacking. Reduplication of demonstratives does occur, however, as discussed in §\ref{Para_4.2.5.2}.}
+Please only return True or False. Do not say anything else. 
+
+Question 22:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: sa tinggal di ruma yang paling di bawa itu
+Gloss: 1SG stay at house REL most at bottom D.DIST
+The English translation of this sentence is: ‘I live in \textbf{the house that’s the furthest down there}’
+Here is a relevant knowledge point for this example to help you judge: In their pronominal uses the locatives substitute or stand for \isi{noun} phrases, as illustrated with the four elicited contrastive examples in (\ref{Example_5.222}). Distal \textitbf{sana} ‘\textsc{l.dist}’ in (\ref{Example_5.222b}) substitutes for the \isi{noun} phrase \textitbf{ruma yang paling di bawa itu} ‘that house that’s the furthest down’ in (\ref{Example_5.222a}). The ungrammatical construction in (\ref{Example_5.222c}) shows that the \isi{locative} replaces the entire \isi{noun} phrase and not only its nominal head \textitbf{ruma} ‘house’.
+Please only return True or False. Do not say anything else. 
+
+Question 23:
+You are a linguist specializing in Papuan Malay. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: sa tinggal di sana
+Gloss: 1SG stay at L.DIST
+The English translation of this sentence is: ‘I live \textbf{over there}’
+Here is a relevant knowledge point for this example to help you judge: In their pronominal uses the locatives substitute or stand for \isi{noun} phrases, as illustrated with the four elicited contrastive examples in (\ref{Example_5.222}). Distal \textitbf{sana} ‘\textsc{l.dist}’ in (\ref{Example_5.222b}) substitutes for the \isi{noun} phrase \textitbf{ruma yang paling di bawa itu} ‘that house that’s the furthest down’ in (\ref{Example_5.222a}). The ungrammatical construction in (\ref{Example_5.222c}) shows that the \isi{locative} replaces the entire \isi{noun} phrase and not only its nominal head \textitbf{ruma} ‘house’.
+Please only return True or False. Do not say anything else. 
+

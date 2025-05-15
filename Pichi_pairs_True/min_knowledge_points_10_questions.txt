@@ -1,0 +1,16 @@
+Question 1:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: Pero dí rɔn-rɔ́n nó de gí nó nátín dé.
+Gloss: but this RED.CPD-run NEG IPFV give NEG nothing there
+The English translation of this sentence is: ‘But this running about aimlessly does not lead anywhere there.’
+Here is a relevant knowledge point for this example to help you judge: The transition from a more lexical reading of sé to a more functional one is far from clear-cut (which is why I have opted for a unitary gloss of ‘\textsc{quot}’ in all contexts). First, distributional restrictions set sé apart from the true speech verbs tɔ́k ‘talk, say’ and tɛ́l ‘tell’. For instance, sé does not normally take a nominal object, as does tɔ́k. Compare \REF{ex:key:1368a} and \REF{ex:key:1368b}.
+Please only return True or False. Do not say anything else. 
+
+Question 2:
+You are a linguist specializing in Pichi. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: A tɔ́k wán wɔ́d.
+Gloss: 1SG.SBJ talk one word
+The English translation of this sentence is: ‘I said one word.’
+Here is a relevant knowledge point for this example to help you judge: The transition from a more lexical reading of sé to a more functional one is far from clear-cut (which is why I have opted for a unitary gloss of ‘\textsc{quot}’ in all contexts). First, distributional restrictions set sé apart from the true speech verbs tɔ́k ‘talk, say’ and tɛ́l ‘tell’. For instance, sé does not normally take a nominal object, as does tɔ́k. Compare \REF{ex:key:1368a} and \REF{ex:key:1368b}.
+Please only return True or False. Do not say anything else. 
+

@@ -1,0 +1,104 @@
+Question 1:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: Màmbì a dè-H H-ma-ntúà
+Gloss: ∅1.PN 1.PST1 eat-R OBJ.LINK-ma6-mango
+The English translation of this sentence is: `Mambi ate mangoes.'
+Here is a relevant knowledge point for this example to help you judge: \subsubsection*{Predication types} Unlike all other copula types, the \textsc{stamp} copula agrees with the subject in gender, as discussed in \sectref{sec:AGRtargets} on agreement targets. The \textsc{stamp} copula can link a nominal subject to different predication types. In \REF{ID1a}, the predicate is nominal, expressing a classification relation: Ada is a member of the set of teachers.
+Please only return True or False. Do not say anything else. 
+
+Question 2:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: bon mpɔ̀ngɔ̀ sílɛ̃́ɛ̃̀ nà béè ba-náyɛ̂yɛ̂
+Gloss: good[French] emptyset7.generation finish.COMPL CONJ 2PL.COP 2-bleached.out
+The English translation of this sentence is: `Good, the generation has been wiped out, and you are bleached out [white].'
+Here is a relevant knowledge point for this example to help you judge: \noindent \REF{ID1b} and \REF{IDcol} provide examples where the predicate is an adjective (\sectref{sec:QUAL}).
+Please only return True or False. Do not say anything else. 
+
+Question 3:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: kánâ mɛ kɔ̀bɛ-H ndáà tsì mɛ̀ɛ́ lémbo-lɛ
+Gloss: or 1SG.PST1 break-R also emptyset7.interdiction 1SG.PRS.NEG know-NEG
+The English translation of this sentence is: `[You were telling me to do so.] Or I also broke the interdiction, I don't know.'
+Here is a relevant knowledge point for this example to help you judge: \noindent In \REF{ID1c} and \REF{ID1d}, the predicate is a locative noun phrase, either including a postposition such as {\itshape dé} (\sectref{sec:POST}) or a noun + noun attributive construction (\sectref{sec:NomLOC}).
+Please only return True or False. Do not say anything else. 
+
+Question 4:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: % nyɛ táàlɛ-H bábɛ̀
+Gloss: % 1.PST1 begin-R ∅7.illness
+The English translation of this sentence is: % `He started to be sick.'
+Here is a relevant knowledge point for this example to help you judge: \noindent In addition to these predicate types, which \citet{dryer2007a} views as the most common ones across languages, the \textsc{stamp} copula in Gyeli can also be used with locative interrogative words (\sectref{sec:INTERR}), as in \REF{ID2}, and with deictic adverbs (\sectref{sec:G1ADV}), as in \REF{ID3}.
+Please only return True or False. Do not say anything else. 
+
+Question 5:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: ma bɛ̀-H vɛ́
+Gloss: 6.PST1 be-R where
+The English translation of this sentence is: `Where were they?'
+Here is a relevant knowledge point for this example to help you judge: \noindent In addition to these predicate types, which \citet{dryer2007a} views as the most common ones across languages, the \textsc{stamp} copula in Gyeli can also be used with locative interrogative words (\sectref{sec:INTERR}), as in \REF{ID2}, and with deictic adverbs (\sectref{sec:G1ADV}), as in \REF{ID3}.
+Please only return True or False. Do not say anything else. 
+
+Question 6:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: bá nà ngvùlɛ̀ bíyɛ̀ sílɛ lwɔ̃̂ H-ma-ndáwɔ̀
+Gloss: 2 COM emptyset9.strength 1PL.OBJ finish build OBJ.LINK-ma6-house
+The English translation of this sentence is: `They have the strength to build us all houses.'
+Here is a relevant knowledge point for this example to help you judge: \noindent In addition to these predicate types, which \citet{dryer2007a} views as the most common ones across languages, the \textsc{stamp} copula in Gyeli can also be used with locative interrogative words (\sectref{sec:INTERR}), as in \REF{ID2}, and with deictic adverbs (\sectref{sec:G1ADV}), as in \REF{ID3}.
+Please only return True or False. Do not say anything else. 
+
+Question 7:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: yɔ́ɔ̀ ba-H kì-H nâ ɛ́ɛ́kɛ̀ m-wánɔ̀ w-ɛ̂ m-ùdã̂ wà nù a bwã́ã̀
+Gloss: dbso 2-PRS say-R COMP dbEXCL N1-child 1-POSS.3SG N1-woman 1:ATT 1:DEM 1.PST1 give.birth.PRF
+The English translation of this sentence is: `So they say: ``Oh, his child who is the wife of that one, has already given birth".'
+Here is a relevant knowledge point for this example to help you judge: Finally, the \textsc{stamp} copula can also introduce reported speech in a quotative index (\sectref{sec:RD}). Thus, in \REF{IDRS}, the \textsc{stamp} copula {\itshape báà} serves as quotative index to the direct reported speech in the copula complement, marked by square brackets.
+Please only return True or False. Do not say anything else. 
+
+Question 8:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: le-kà lé kálàdɛ̀ yá vɛ́
+Gloss: le5-kind 5:ATT ∅7.book 7:ATT which
+The English translation of this sentence is: `which kind of book?'
+Here is a relevant knowledge point for this example to help you judge: \subsubsection*{Expression of the subject} As mentioned above, a copula links a subject to a predicate. In the previous examples, the shape of the subject was some sort of noun phrase. In \REF{ID2} and \REF{ID5}, the subject is expressed nominally, whereas the subject noun phrase in \REF{ID4} is more complex, including two modifiers. The \textsc{stamp} copula can also encode subject and copula at the same time and thus can occur on its own, without a nominal noun phrase, as in \REF{ID6}.
+Please only return True or False. Do not say anything else. 
+
+Question 9:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: be-sá bí-ndɛ̀ by-ɛ́sɛ̀ béè ndáà
+Gloss: be8-thing 8-ANA 8-all 8.COP also
+The English translation of this sentence is: `There are also all these things. [way of introducing a problem]'
+Here is a relevant knowledge point for this example to help you judge: \subsubsection*{Expression of the subject} As mentioned above, a copula links a subject to a predicate. In the previous examples, the shape of the subject was some sort of noun phrase. In \REF{ID2} and \REF{ID5}, the subject is expressed nominally, whereas the subject noun phrase in \REF{ID4} is more complex, including two modifiers. The \textsc{stamp} copula can also encode subject and copula at the same time and thus can occur on its own, without a nominal noun phrase, as in \REF{ID6}.
+Please only return True or False. Do not say anything else. 
+
+Question 10:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: lé yá wɛ-H nyɛ̂ ba-H gyíbɔ-H ngàlɛ́ yíì
+Gloss: emptyset7.tree db7:ATT 2SG-PRS see db2-PRS call-R emptyset7.tree.species 7.COP
+The English translation of this sentence is: `There is the tree that you see that they call {\itshape ngàlɛ́}.'
+Here is a relevant knowledge point for this example to help you judge: \subsubsection*{Expression of the subject} As mentioned above, a copula links a subject to a predicate. In the previous examples, the shape of the subject was some sort of noun phrase. In \REF{ID2} and \REF{ID5}, the subject is expressed nominally, whereas the subject noun phrase in \REF{ID4} is more complex, including two modifiers. The \textsc{stamp} copula can also encode subject and copula at the same time and thus can occur on its own, without a nominal noun phrase, as in \REF{ID6}.
+Please only return True or False. Do not say anything else. 
+
+Question 11:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: mɛ̀ɛ́ lémbo-lɛ̀ ɛ́ mpù báà ndáwɔ̀ dé tù dénè
+Gloss: 1SG.PRS.NEG know-NEG LOC like.this 2.COP emptyset9.house LOC inside today[Bulu]
+The English translation of this sentence is: `I don't know how they are in the house today.'
+Here is a relevant knowledge point for this example to help you judge: \subsubsection*{Expression of the subject} As mentioned above, a copula links a subject to a predicate. In the previous examples, the shape of the subject was some sort of noun phrase. In \REF{ID2} and \REF{ID5}, the subject is expressed nominally, whereas the subject noun phrase in \REF{ID4} is more complex, including two modifiers. The \textsc{stamp} copula can also encode subject and copula at the same time and thus can occur on its own, without a nominal noun phrase, as in \REF{ID6}.
+Please only return True or False. Do not say anything else. 
+
+Question 12:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: a dè-H H-ma-ntúà
+Gloss: 1.PST1 eat-R OBJ.LINK-ma6-mango
+The English translation of this sentence is: `S/he ate mangoes.'
+Here is a relevant knowledge point for this example to help you judge: The \textsc{stamp} marker, {\itshape á} in \REF{SBJ1} and {\itshape à} in \REF{SBJ2}, is a free grammatical morpheme rather than a prefix, since it can optionally be omitted in certain contexts (\sectref{sec:SCOP}).
+Please only return True or False. Do not say anything else. 
+
+Question 13:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: j-ínɔ̀ lɛ́ kwàdɔ̀ y-ã̂ yíì Ngòló
+Gloss: le5-name 5:ATT emptyset7.village 7-POSS.1SG 7.COP emptyset3.PN
+The English translation of this sentence is: `The name of my village is Ngolo.'
+Here is a relevant knowledge point for this example to help you judge: \citet{creissels2005} provides a useful survey of pronominal subject and object markers and their evolutionary stages in African languages. Following his model of three different stages in pronominal markers, Gyeli has both a stage I and a stage II pronominal marker for subjects. The stage I pronominal marker is the subject pronoun, as in \REF{SBJSCOP1}, which is in complementary distribution with its corresponding noun phrase and chosen for discourse structural reasons. In contrast, the stage II pronominal marker, following \citet{creissels2005}, is the \textsc{stamp} marker, as in \REF{SBJ1a}, which is obligatory even (in most cases) if a nominal or pronominal subject noun phrase is present. In contrast to subjects, non-subjects, namely objects and oblique noun phrases, only have a stage I pronominal marker, as described below.
+Please only return True or False. Do not say anything else. 
+

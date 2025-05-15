@@ -1,0 +1,96 @@
+Question 1:
+You are a linguist specializing in Yauyos Quechua. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: imapaq aysa-pa-ma-ra-nki ñuqa hawka puñu-ku-pti-: ni-shpa-sh
+Gloss: why pull-BEN-1.OBJ-PST-2 I tranquil sleep-REFL-SUBDS-1 say-SUBIS-EVR
+The English translation of this sentence is: “Why did you tug at me when I was sleeping peacefully?” said [the zombie].
+Here is a relevant knowledge point for this example to help you judge: \phono{-rQa} and \phono{-Ru} are thus not in paradigmatic opposition and differ in their distribution. \phono{-RQa,} but not \phono{-Ru}, is used in the construction of the habitual past~(\ref{Glo4:Dumingunpa}), (\ref{Glo4:manchachiku}) and the past conditional~(\ref{Glo4:Imapaqtaqni}),~(\ref{Glo4:Kundinakurun}); while \phono{-Ru}, but not \phono{-RQa}, may be used in combination with \phono{-sHa}~(\ref{Glo4:ayarikura}),~(\ref{Glo4:Chayllapaq}) as well as with \phono{-shpa}~(\ref{Glo4:Antaylumatata}), (\ref{Glo4:talilushpaqa}) and \phono{-pti}~(\ref{Glo4:ganawnintin}), (\ref{Glo4:trayarun}), (\ref{Glo4:shinkaqqa}), in which case it indicates the precedence of the subordinated event to the main-clause event.
+Please only return True or False. Do not say anything else. 
+
+Question 2:
+You are a linguist specializing in Yauyos Quechua. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: ima-paq-taq ni-wa-rqa-nki paga-ru-lla-wa-n-man-tri ka-rqa
+Gloss: what-PURP-SEQ say-1.OBJ-PST-2 pay-URGT-RSTR-1.OBJ-3-COND-EVC be-PST
+The English translation of this sentence is: Why did you say that to me? He would have sacrificed me!
+Here is a relevant knowledge point for this example to help you judge: \phono{-rQa} and \phono{-Ru} are thus not in paradigmatic opposition and differ in their distribution. \phono{-RQa,} but not \phono{-Ru}, is used in the construction of the habitual past~(\ref{Glo4:Dumingunpa}), (\ref{Glo4:manchachiku}) and the past conditional~(\ref{Glo4:Imapaqtaqni}),~(\ref{Glo4:Kundinakurun}); while \phono{-Ru}, but not \phono{-RQa}, may be used in combination with \phono{-sHa}~(\ref{Glo4:ayarikura}),~(\ref{Glo4:Chayllapaq}) as well as with \phono{-shpa}~(\ref{Glo4:Antaylumatata}), (\ref{Glo4:talilushpaqa}) and \phono{-pti}~(\ref{Glo4:ganawnintin}), (\ref{Glo4:trayarun}), (\ref{Glo4:shinkaqqa}), in which case it indicates the precedence of the subordinated event to the main-clause event.
+Please only return True or False. Do not say anything else. 
+
+Question 3:
+You are a linguist specializing in Yauyos Quechua. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: kuti-ka-mu-ra-: lliw ganaw-ni-ntin wamra-: lliw listu hishpi-ru-pti-n-ña
+Gloss: return-REFL-CISL-PST-1 all cattle-EUPH-INCL child-1 all ready educate-URGT-SUBDS-3-DISC
+The English translation of this sentence is: I came back with all my cattle when my children had been educated.
+Here is a relevant knowledge point for this example to help you judge: \phono{-rQa} and \phono{-Ru} are thus not in paradigmatic opposition and differ in their distribution. \phono{-RQa,} but not \phono{-Ru}, is used in the construction of the habitual past~(\ref{Glo4:Dumingunpa}), (\ref{Glo4:manchachiku}) and the past conditional~(\ref{Glo4:Imapaqtaqni}),~(\ref{Glo4:Kundinakurun}); while \phono{-Ru}, but not \phono{-RQa}, may be used in combination with \phono{-sHa}~(\ref{Glo4:ayarikura}),~(\ref{Glo4:Chayllapaq}) as well as with \phono{-shpa}~(\ref{Glo4:Antaylumatata}), (\ref{Glo4:talilushpaqa}) and \phono{-pti}~(\ref{Glo4:ganawnintin}), (\ref{Glo4:trayarun}), (\ref{Glo4:shinkaqqa}), in which case it indicates the precedence of the subordinated event to the main-clause event.
+Please only return True or False. Do not say anything else. 
+
+Question 4:
+You are a linguist specializing in Yauyos Quechua. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: antayluma-ta tari-ru-shpa-qa palla-ku-lla-ra hinaptin-shi
+Gloss: antayluma.berry-ACC find-URGT-SUBIS-TOP pick-REFL-RSTR-PST then-EVR
+The English translation of this sentence is: When she found the antayluma berries, she picked them then, they say.
+Here is a relevant knowledge point for this example to help you judge: \phono{-rQa} and \phono{-Ru} are thus not in paradigmatic opposition and differ in their distribution. \phono{-RQa,} but not \phono{-Ru}, is used in the construction of the habitual past~(\ref{Glo4:Dumingunpa}), (\ref{Glo4:manchachiku}) and the past conditional~(\ref{Glo4:Imapaqtaqni}),~(\ref{Glo4:Kundinakurun}); while \phono{-Ru}, but not \phono{-RQa}, may be used in combination with \phono{-sHa}~(\ref{Glo4:ayarikura}),~(\ref{Glo4:Chayllapaq}) as well as with \phono{-shpa}~(\ref{Glo4:Antaylumatata}), (\ref{Glo4:talilushpaqa}) and \phono{-pti}~(\ref{Glo4:ganawnintin}), (\ref{Glo4:trayarun}), (\ref{Glo4:shinkaqqa}), in which case it indicates the precedence of the subordinated event to the main-clause event.
+Please only return True or False. Do not say anything else. 
+
+Question 5:
+You are a linguist specializing in Yauyos Quechua. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: chay walmi-ta tali-lu-shpa-qa apa-lu-n-ña-m uspital-man
+Gloss: DEM.D woman-ACC find-URGT-SUBIS-TOP bring-URGT-3-DISC-EVD hospital-ALL
+The English translation of this sentence is: When they found the woman they took her to the hospital.
+Here is a relevant knowledge point for this example to help you judge: \phono{-rQa} and \phono{-Ru} are thus not in paradigmatic opposition and differ in their distribution. \phono{-RQa,} but not \phono{-Ru}, is used in the construction of the habitual past~(\ref{Glo4:Dumingunpa}), (\ref{Glo4:manchachiku}) and the past conditional~(\ref{Glo4:Imapaqtaqni}),~(\ref{Glo4:Kundinakurun}); while \phono{-Ru}, but not \phono{-RQa}, may be used in combination with \phono{-sHa}~(\ref{Glo4:ayarikura}),~(\ref{Glo4:Chayllapaq}) as well as with \phono{-shpa}~(\ref{Glo4:Antaylumatata}), (\ref{Glo4:talilushpaqa}) and \phono{-pti}~(\ref{Glo4:ganawnintin}), (\ref{Glo4:trayarun}), (\ref{Glo4:shinkaqqa}), in which case it indicates the precedence of the subordinated event to the main-clause event.
+Please only return True or False. Do not say anything else. 
+
+Question 6:
+You are a linguist specializing in Yauyos Quechua. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: traya-mu-shpa mancha-chi-ku-q ka-la
+Gloss: arrive-CISL-SUBIS scare-CAUS-REFL-AG be-PST
+The English translation of this sentence is: When she came, she would scare them.
+Here is a relevant knowledge point for this example to help you judge: \phono{-rQa} and \phono{-Ru} are thus not in paradigmatic opposition and differ in their distribution. \phono{-RQa,} but not \phono{-Ru}, is used in the construction of the habitual past~(\ref{Glo4:Dumingunpa}), (\ref{Glo4:manchachiku}) and the past conditional~(\ref{Glo4:Imapaqtaqni}),~(\ref{Glo4:Kundinakurun}); while \phono{-Ru}, but not \phono{-RQa}, may be used in combination with \phono{-sHa}~(\ref{Glo4:ayarikura}),~(\ref{Glo4:Chayllapaq}) as well as with \phono{-shpa}~(\ref{Glo4:Antaylumatata}), (\ref{Glo4:talilushpaqa}) and \phono{-pti}~(\ref{Glo4:ganawnintin}), (\ref{Glo4:trayarun}), (\ref{Glo4:shinkaqqa}), in which case it indicates the precedence of the subordinated event to the main-clause event.
+Please only return True or False. Do not say anything else. 
+
+Question 7:
+You are a linguist specializing in Yauyos Quechua. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: chay mula-paq siqa-yku-ru-pti-n puñu-ku-ra-tri-k shinka-q-qa
+Gloss: DEM.D mule-ABL go.down-EXCEP-URGT-SUBDS-3 sleep-REFL-PST-EVC-IK get.drunk-AG-TOP
+The English translation of this sentence is: When he fell off that mule, the drunk must have been asleep.
+Here is a relevant knowledge point for this example to help you judge: \phono{-rQa} and \phono{-Ru} are thus not in paradigmatic opposition and differ in their distribution. \phono{-RQa,} but not \phono{-Ru}, is used in the construction of the habitual past~(\ref{Glo4:Dumingunpa}), (\ref{Glo4:manchachiku}) and the past conditional~(\ref{Glo4:Imapaqtaqni}),~(\ref{Glo4:Kundinakurun}); while \phono{-Ru}, but not \phono{-RQa}, may be used in combination with \phono{-sHa}~(\ref{Glo4:ayarikura}),~(\ref{Glo4:Chayllapaq}) as well as with \phono{-shpa}~(\ref{Glo4:Antaylumatata}), (\ref{Glo4:talilushpaqa}) and \phono{-pti}~(\ref{Glo4:ganawnintin}), (\ref{Glo4:trayarun}), (\ref{Glo4:shinkaqqa}), in which case it indicates the precedence of the subordinated event to the main-clause event.
+Please only return True or False. Do not say anything else. 
+
+Question 8:
+You are a linguist specializing in Yauyos Quechua. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: kundina-ku-ru-n-man-tri ka-ra qullqi chay ka-sa
+Gloss: condemn-REFL-URGT-3-COND-EVC be-PST money DEM.D be-NPST
+The English translation of this sentence is: She would have condemned herself [to being a zombie]. That was money.
+Here is a relevant knowledge point for this example to help you judge: \phono{-rQa} and \phono{-Ru} are thus not in paradigmatic opposition and differ in their distribution. \phono{-RQa,} but not \phono{-Ru}, is used in the construction of the habitual past~(\ref{Glo4:Dumingunpa}), (\ref{Glo4:manchachiku}) and the past conditional~(\ref{Glo4:Imapaqtaqni}),~(\ref{Glo4:Kundinakurun}); while \phono{-Ru}, but not \phono{-RQa}, may be used in combination with \phono{-sHa}~(\ref{Glo4:ayarikura}),~(\ref{Glo4:Chayllapaq}) as well as with \phono{-shpa}~(\ref{Glo4:Antaylumatata}), (\ref{Glo4:talilushpaqa}) and \phono{-pti}~(\ref{Glo4:ganawnintin}), (\ref{Glo4:trayarun}), (\ref{Glo4:shinkaqqa}), in which case it indicates the precedence of the subordinated event to the main-clause event.
+Please only return True or False. Do not say anything else. 
+
+Question 9:
+You are a linguist specializing in Yauyos Quechua. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: antayluma-ta tari-ru-shpa-qa palla-ku-ya-ra hina-pti-n-shi
+Gloss: antayluma.berries-ACC find-URGT-SUBIS-TOP pick-REFL-PROG-PST then-EVR
+The English translation of this sentence is: After finding some antayluma berries, she was gathering them up. Then~\dots
+Here is a relevant knowledge point for this example to help you judge: \phono{-rQa} and \phono{-Ru} are thus not in paradigmatic opposition and differ in their distribution. \phono{-RQa,} but not \phono{-Ru}, is used in the construction of the habitual past~(\ref{Glo4:Dumingunpa}), (\ref{Glo4:manchachiku}) and the past conditional~(\ref{Glo4:Imapaqtaqni}),~(\ref{Glo4:Kundinakurun}); while \phono{-Ru}, but not \phono{-RQa}, may be used in combination with \phono{-sHa}~(\ref{Glo4:ayarikura}),~(\ref{Glo4:Chayllapaq}) as well as with \phono{-shpa}~(\ref{Glo4:Antaylumatata}), (\ref{Glo4:talilushpaqa}) and \phono{-pti}~(\ref{Glo4:ganawnintin}), (\ref{Glo4:trayarun}), (\ref{Glo4:shinkaqqa}), in which case it indicates the precedence of the subordinated event to the main-clause event.
+Please only return True or False. Do not say anything else. 
+
+Question 10:
+You are a linguist specializing in Yauyos Quechua. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: kundina-ku-ru-shpa chay pashña ka-q-ta traya-ra-mu-n
+Gloss: condemn-REFL-URGT-SUBIS DEMD girl be-AG-ACC arrive-URGT-CISL-3
+The English translation of this sentence is: Condemning himself [becoming a zombie], he arrived at the girl’s place at night.
+Here is a relevant knowledge point for this example to help you judge: \phono{-rQa} and \phono{-Ru} are thus not in paradigmatic opposition and differ in their distribution. \phono{-RQa,} but not \phono{-Ru}, is used in the construction of the habitual past~(\ref{Glo4:Dumingunpa}), (\ref{Glo4:manchachiku}) and the past conditional~(\ref{Glo4:Imapaqtaqni}),~(\ref{Glo4:Kundinakurun}); while \phono{-Ru}, but not \phono{-RQa}, may be used in combination with \phono{-sHa}~(\ref{Glo4:ayarikura}),~(\ref{Glo4:Chayllapaq}) as well as with \phono{-shpa}~(\ref{Glo4:Antaylumatata}), (\ref{Glo4:talilushpaqa}) and \phono{-pti}~(\ref{Glo4:ganawnintin}), (\ref{Glo4:trayarun}), (\ref{Glo4:shinkaqqa}), in which case it indicates the precedence of the subordinated event to the main-clause event.
+Please only return True or False. Do not say anything else. 
+
+Question 11:
+You are a linguist specializing in Yauyos Quechua. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: chay-lla-pa pripara-pu-nki
+Gloss: DEM.D-RESTR-LOC prepare-BEN-2
+The English translation of this sentence is: Just there prepare it [for her].
+Here is a relevant knowledge point for this example to help you judge: \phono{-rQa} and \phono{-Ru} are thus not in paradigmatic opposition and differ in their distribution. \phono{-RQa,} but not \phono{-Ru}, is used in the construction of the habitual past~(\ref{Glo4:Dumingunpa}), (\ref{Glo4:manchachiku}) and the past conditional~(\ref{Glo4:Imapaqtaqni}),~(\ref{Glo4:Kundinakurun}); while \phono{-Ru}, but not \phono{-RQa}, may be used in combination with \phono{-sHa}~(\ref{Glo4:ayarikura}),~(\ref{Glo4:Chayllapaq}) as well as with \phono{-shpa}~(\ref{Glo4:Antaylumatata}), (\ref{Glo4:talilushpaqa}) and \phono{-pti}~(\ref{Glo4:ganawnintin}), (\ref{Glo4:trayarun}), (\ref{Glo4:shinkaqqa}), in which case it indicates the precedence of the subordinated event to the main-clause event.
+Please only return True or False. Do not say anything else. 
+
+Question 12:
+You are a linguist specializing in Yauyos Quechua. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: haku-ña, tayta-y paka-na-n-paq chay aycha-ta
+Gloss: let’s.go-DISC father-1 hide-NMLZ-3-PURP DEM.D meat-ACC
+The English translation of this sentence is: Let’s go, mate, so he can hide this meat!
+Here is a relevant knowledge point for this example to help you judge: \phono{¡Haku!} ‘Let’s go!’ is irregular: it cannot be negated or inflected~(\ref{Glo4:pakananpaq}), (\ref{Glo4:shunchu}), except, optionally, with the first-person plural -\phono{nchik}.
+Please only return True or False. Do not say anything else. 
+

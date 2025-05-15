@@ -1,0 +1,40 @@
+Question 1:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: niʔ urt'-e!
+Gloss: milk pour:IPFV-IMP
+The English translation of this sentence is: `Pour the milk!'
+Here is a relevant knowledge point for this example to help you judge: with Allah in the ergative (\ref{ex:5:120}, \ref{ex:5:121}).
+Please only return True or False. Do not say anything else. 
+
+Question 2:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: gʷ-e bet'-a!
+Gloss: see:PFV-IMP say:PFV-IMP.TR
+The English translation of this sentence is: `Let him see!' (he should make attempts to see)
+Here is a relevant knowledge point for this example to help you judge: The optative cannot refer to the \isi{past}, cf.\ examples (\ref{ex:5:138}) and (\ref{ex:5:139}):
+Please only return True or False. Do not say anything else. 
+
+Question 3:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: b-ak'-e-na!
+Gloss: HPL-come:PFV-IMP-IMP.PL
+The English translation of this sentence is: `Come to me (addressing several people)!'
+Here is a relevant knowledge point for this example to help you judge: construction denotes non-desirable situations (\ref{ex:5:175}):
+Please only return True or False. Do not say anything else. 
+
+Question 4:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: w-aˤbʡ-a-na rasul!
+Gloss: M-kill:PFV-IMP.TR-IMP.PL Rasul
+The English translation of this sentence is: `Kill Rasul (addressing several people)!'
+Here is a relevant knowledge point for this example to help you judge: is ungrammatical (\ref{ex:5:196}), and has to be modified as in (\ref{ex:5:197}).
+Please only return True or False. Do not say anything else. 
+
+Question 5:
+You are a linguist specializing in Fwe. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: nu uruχ k'-as dag-ʔʷanal anwal-li-če χʷe q'ac' b-ik-a-la ile.
+Gloss: I be.afraid LV:IPFV-HAB.EGO yesterday-like Anwar-OBL-SUPER(LAT) dog bite N-happen:PFV-IRR-APPR COMP
+The English translation of this sentence is: `I am afraid that the dog might bite Anwar as it happened yesterday.'
+Here is a relevant knowledge point for this example to help you judge: is ungrammatical (\ref{ex:5:196}), and has to be modified as in (\ref{ex:5:197}).
+Please only return True or False. Do not say anything else. 
+

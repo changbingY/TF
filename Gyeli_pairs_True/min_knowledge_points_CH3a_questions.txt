@@ -1,0 +1,56 @@
+Question 1:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: kánâ mɛ kɔ̀bɛ-H ndáà tsì mɛ̀ɛ́ lémbo-lɛ
+Gloss: or 1SG.PST1 break-R also emptyset7.interdiction 1SG.PRS.NEG know-NEG
+The English translation of this sentence is: `[You were telling me to do so.] Or I also broke the interdiction, I don't know.'
+Here is a relevant knowledge point for this example to help you judge: All these verbs can also take a different lexeme as an object, as for instance, in \REF{Cogna}. They cannot appear without an object, as \REF{Cognb} shows.
+Please only return True or False. Do not say anything else. 
+
+Question 2:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: mɛ-H kɛ̀-H tísɔ̀nì
+Gloss: 1SG-PRS go-R emptyset7.town
+The English translation of this sentence is: `I go to town.'
+Here is a relevant knowledge point for this example to help you judge: All these verbs can also take a different lexeme as an object, as for instance, in \REF{Cogna}. They cannot appear without an object, as \REF{Cognb} shows.
+Please only return True or False. Do not say anything else. 
+
+Question 3:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: Màmbì a dè-H H-ma-ntúà
+Gloss: ∅1.PN 1.PST1 eat-R OBJ.LINK-ma6-mango
+The English translation of this sentence is: `Mambi ate mangoes.'
+Here is a relevant knowledge point for this example to help you judge: {\itshape mànjìmɔ̀} is sensitive to a mass/count distinction in that it does not appear with uncountable nouns, neither liquids nor granular aggregates, as shown in \REF{wholeno}. Using {\itshape mànjìmɔ̀} with mass nouns requires a specification of the physical entity, for instance a bottle as in \REF{wholeno3}.
+Please only return True or False. Do not say anything else. 
+
+Question 4:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: m-ùdã̂ kɛ̀-H nà nyɛ̀ H-ma-nkɛ̃̂
+Gloss: n1-woman go-R COM 1 OBJ.LINK-ma6-field
+The English translation of this sentence is: `Woman, go with her to the fields.'
+Here is a relevant knowledge point for this example to help you judge: In \REF{NCOM1}, both examples are excluded from \textsc{stamp} marker omission, based on the CV noun class prefix. In contrast, in \REF{NCOM2} with consonantal noun class prefixes, only the plural noun in \REF{NCOM2b} does not allow \textsc{stamp} marker omission, but its singular counterpart in \REF{NCOM2a} does allow it.
+Please only return True or False. Do not say anything else. 
+
+Question 5:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: mɛ kí bɛ̀ nà tsídí
+Gloss: 1SG.PST1 NEG[Kwasio] be COM emptyset1.meat
+The English translation of this sentence is: `I didn't have any meat.'
+Here is a relevant knowledge point for this example to help you judge: In \REF{NCOM1}, both examples are excluded from \textsc{stamp} marker omission, based on the CV noun class prefix. In contrast, in \REF{NCOM2} with consonantal noun class prefixes, only the plural noun in \REF{NCOM2b} does not allow \textsc{stamp} marker omission, but its singular counterpart in \REF{NCOM2a} does allow it.
+Please only return True or False. Do not say anything else. 
+
+Question 6:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: a dè-H H-ma-ntúà
+Gloss: 1.PST1 eat-R OBJ.LINK-ma6-mango
+The English translation of this sentence is: `S/he ate mangoes.'
+Here is a relevant knowledge point for this example to help you judge: In \REF{NCOM1}, both examples are excluded from \textsc{stamp} marker omission, based on the CV noun class prefix. In contrast, in \REF{NCOM2} with consonantal noun class prefixes, only the plural noun in \REF{NCOM2b} does not allow \textsc{stamp} marker omission, but its singular counterpart in \REF{NCOM2a} does allow it.
+Please only return True or False. Do not say anything else. 
+
+Question 7:
+You are a linguist specializing in Gyeli. You are given a sentence along with its morpheme breakdown, gloss, and translation. Words are separated by spaces, and morphemes are separated by hyphens. Based on your understanding, please judge whether the sentence is grammatical or ungrammatical.
+Sentence: mɛ lámbɔ̃́ɔ̃̀ kù
+Gloss: 1SG trap.R.COMPL emptyset1.rat
+The English translation of this sentence is: `I have (already) trapped the rat.'
+Here is a relevant knowledge point for this example to help you judge: While there are some verbs, as in \REF{absmo1}, which can take both the {\itshape mɔ̀} form and the contracted form, other verbs can only take one or the other. {\itshape lámbɔ} `trap', for instance, can only take the contracted form as in \REF{absmo2a}, while the non-contracted form in \REF{absmo2b} is judged as ungrammatical. It seems to be lexically determined whether a verb takes one or the other or both forms.
+Please only return True or False. Do not say anything else. 
+
